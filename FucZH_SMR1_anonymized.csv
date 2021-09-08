@@ -13,7 +13,7 @@
 11,2021-09-06 16:58,Mixed SM 2021,FSL,258,D,2,2,Defense,Goal,,,Anonymous,,MV,AL,LB,EL,JV,JS,SG,,,U,1,0,0,-0.5,,,,0,,,,,0,,FSL0202,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 12,2021-09-06 16:58,Mixed SM 2021,FSL,7,O,3,2,Offense,Goal,SH,Anonymous,,,MV,CC,SH,LB,JV,JS,SG,M,U,,0,1,1,0.5,,Anonymous,,0,M,,,,0,MU,FSL0302,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 13,2021-09-06 16:58,Mixed SM 2021,FSL,14,D,4,2,Defense,PullOb,,,SG,,JL,MV,SH,LB,JV,JS,SG,,,M,0,1,0,,,,,0,,,,,0,,FSL0402,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-14,2021-09-06 16:58,Mixed SM 2021,FSL,14,D,4,2,Defense,D,,,JV,,JL,MV,SH,LB,JV,JS,SG,,,M,0,1,0,,,,,1,,,,,0,,FSL0402,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+14,2021-09-06 16:58,Mixed SM 2021,FSL,14,D,4,2,Defense,D,,,JV,,JL,MV,SH,LB,JV,JS,SG,,,M,0,1,0,,,,,1,M,,,,0,,FSL0402,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 15,2021-09-06 16:58,Mixed SM 2021,FSL,14,D,4,2,Offense,Catch,SH,MV,,,JL,MV,SH,LB,JV,JS,SG,M,W,,0,1,0,,,,MV,0,M,,,,0,MW,FSL0402,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 16,2021-09-06 16:58,Mixed SM 2021,FSL,14,D,4,2,Offense,Goal,MV,JV,,,JL,MV,SH,LB,JV,JS,SG,W,M,,0,1,0,1.0,,JV,,0,W,,,,0,WM,FSL0402,0,0,0,0,0,0,1,0,0,0,0,0,0,1
 17,2021-09-06 16:58,Mixed SM 2021,FSL,130,D,5,2,Defense,Pull,,,SG,5.454,JL,MV,CS,EL,JS,JV,SG,,,M,0,1,0,,,,,0,,,,,0,,FSL0502,0,0,0,0,0,0,0,0,1,0,0,0,0,0
@@ -27,7 +27,7 @@
 25,2021-09-06 16:58,Mixed SM 2021,FSL,142,D,5,3,Defense,Throwaway,,,Anonymous,,SB,AL,CS,CC,SH,LB,SG,,,U,1,0,0,,,,,1,,,,,1,,FSL0503,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 26,2021-09-06 16:58,Mixed SM 2021,FSL,142,D,5,3,Offense,Drop,SG,CC,,,SB,AL,CS,CC,SH,LB,SG,M,W,,1,0,0,,,,,1,W,,,,0,MW,FSL0503,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 27,2021-09-06 16:58,Mixed SM 2021,FSL,142,D,5,3,Defense,Goal,,,Anonymous,,SB,AL,CS,CC,SH,LB,SG,,,U,1,0,0,-0.5,,,,0,,,,,0,,FSL0503,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-28,2021-09-06 16:58,Mixed SM 2021,FSL,119,O,5,4,Offense,Catch,Anonymous,FS,,,JL,FS,AY,MV,SH,EL,GA,U,M,,1,0,1,,,,,0,U,1.0,UM,"('Anonymous', 'FS')",0,UM,FSL0504,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+28,2021-09-06 16:58,Mixed SM 2021,FSL,119,O,5,4,Offense,Catch,Anonymous,FS,,,JL,FS,AY,MV,SH,EL,GA,U,M,,1,0,1,,,,,0,U,1.0,UM,"('Anonymous', 'Francesc')",0,UM,FSL0504,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 29,2021-09-06 16:58,Mixed SM 2021,FSL,119,O,5,4,Offense,Throwaway,FS,Anonymous,,,JL,FS,AY,MV,SH,EL,GA,M,U,,1,0,1,,,,,1,M,,,,0,MU,FSL0504,0,0,0,0,0,0,0,0,0,0,1,1,0,0
 30,2021-09-06 16:58,Mixed SM 2021,FSL,119,O,5,4,Defense,Goal,,,Anonymous,,JL,FS,AY,MV,SH,EL,GA,,,U,1,0,1,-1.0,,,,0,,,,,0,,FSL0504,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 31,2021-09-06 16:58,Mixed SM 2021,FSL,151,O,6,4,Offense,Catch,AY,SH,,,AY,SB,FS,AL,CS,SH,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,FSL0604,1,0,0,0,0,0,0,0,0,0,0,0,0,1
@@ -43,25 +43,25 @@
 41,2021-09-06 16:58,Mixed SM 2021,FSL,130,D,6,5,Offense,Throwaway,Anonymous,Anonymous,,,MV,CC,SH,EL,JS,JV,SG,U,U,,0,1,0,,,,,1,U,,,,0,UU,FSL0605,0,0,0,0,0,0,0,0,0,0,1,0,1,0
 42,2021-09-06 16:58,Mixed SM 2021,FSL,130,D,6,5,Defense,Goal,,,Anonymous,,MV,CC,SH,EL,JS,JV,SG,,,U,0,1,0,-0.5,,,,0,,,,,0,,FSL0605,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 43,2021-09-06 16:58,Mixed SM 2021,FSL,151,O,7,5,Offense,Catch,AY,FS,,,AY,SB,JL,FS,SH,LB,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,FSL0705,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-44,2021-09-06 16:58,Mixed SM 2021,FSL,151,O,7,5,Offense,Catch,FS,SB,,,AY,SB,JL,FS,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('FS', 'SB')",0,MW,FSL0705,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+44,2021-09-06 16:58,Mixed SM 2021,FSL,151,O,7,5,Offense,Catch,FS,SB,,,AY,SB,JL,FS,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('Francesc', 'Zosh')",0,MW,FSL0705,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 45,2021-09-06 16:58,Mixed SM 2021,FSL,151,O,7,5,Offense,Catch,SB,FS,,,AY,SB,JL,FS,SH,LB,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,FSL0705,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 46,2021-09-06 16:58,Mixed SM 2021,FSL,151,O,7,5,Offense,Throwaway,FS,Anonymous,,,AY,SB,JL,FS,SH,LB,GA,M,U,,1,0,1,,,,,1,M,,,,0,MU,FSL0705,0,0,0,0,0,0,0,0,0,0,1,1,0,0
-47,2021-09-06 16:58,Mixed SM 2021,FSL,151,O,7,5,Defense,D,,,SH,,AY,SB,JL,FS,SH,LB,GA,,,M,1,0,1,,,,,1,,,,,0,,FSL0705,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+47,2021-09-06 16:58,Mixed SM 2021,FSL,151,O,7,5,Defense,D,,,SH,,AY,SB,JL,FS,SH,LB,GA,,,M,1,0,1,,,,,1,M,,,,0,,FSL0705,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 48,2021-09-06 16:58,Mixed SM 2021,FSL,151,O,7,5,Offense,Catch,FS,GA,,,AY,SB,JL,FS,SH,LB,GA,M,M,,1,0,1,,,,,0,M,,,,0,MM,FSL0705,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-49,2021-09-06 16:58,Mixed SM 2021,FSL,151,O,7,5,Offense,Catch,GA,JL,,,AY,SB,JL,FS,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('GA', 'JL')",0,MW,FSL0705,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+49,2021-09-06 16:58,Mixed SM 2021,FSL,151,O,7,5,Offense,Catch,GA,JL,,,AY,SB,JL,FS,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('Georg', 'Julia')",0,MW,FSL0705,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 50,2021-09-06 16:58,Mixed SM 2021,FSL,151,O,7,5,Offense,Catch,JL,GA,,,AY,SB,JL,FS,SH,LB,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,FSL0705,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 51,2021-09-06 16:58,Mixed SM 2021,FSL,151,O,7,5,Offense,Catch,GA,LB,,,AY,SB,JL,FS,SH,LB,GA,M,W,,1,0,1,,LB,,,0,M,,,,0,MW,FSL0705,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 52,2021-09-06 16:58,Mixed SM 2021,FSL,151,O,7,5,Offense,Catch,LB,FS,,,AY,SB,JL,FS,SH,LB,GA,W,M,,1,0,1,,,,FS,0,W,,,,0,WM,FSL0705,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 53,2021-09-06 16:58,Mixed SM 2021,FSL,151,O,7,5,Offense,Goal,FS,Anonymous,,,AY,SB,JL,FS,SH,LB,GA,M,U,,1,0,1,0.5,,Anonymous,,0,M,,,,0,MU,FSL0705,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 54,2021-09-06 16:58,Mixed SM 2021,FSL,150,D,8,5,Defense,Pull,,,Anonymous,2.746,MV,AL,CC,EL,JV,JS,SG,,,U,1,0,0,,,,,0,,,,,0,,FSL0805,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 55,2021-09-06 16:58,Mixed SM 2021,FSL,150,D,8,5,Defense,Throwaway,,,Anonymous,,MV,AL,CC,EL,JV,JS,SG,,,U,1,0,0,,,,,1,,,,,1,,FSL0805,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-56,2021-09-06 16:58,Mixed SM 2021,FSL,150,D,8,5,Offense,Catch,SG,MV,,,MV,AL,CC,EL,JV,JS,SG,M,W,,1,0,0,,,,,0,M,1.0,MW,"('MV', 'SG')",0,MW,FSL0805,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+56,2021-09-06 16:58,Mixed SM 2021,FSL,150,D,8,5,Offense,Catch,SG,MV,,,MV,AL,CC,EL,JV,JS,SG,M,W,,1,0,0,,,,,0,M,1.0,MW,"('Malvina', 'Sebi')",0,MW,FSL0805,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 57,2021-09-06 16:58,Mixed SM 2021,FSL,150,D,8,5,Offense,Catch,MV,SG,,,MV,AL,CC,EL,JV,JS,SG,W,M,,1,0,0,,,,,0,W,,,,0,WM,FSL0805,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 58,2021-09-06 16:58,Mixed SM 2021,FSL,150,D,8,5,Offense,Catch,SG,CC,,,MV,AL,CC,EL,JV,JS,SG,M,W,,1,0,0,,CC,,,0,M,,,,0,MW,FSL0805,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 59,2021-09-06 16:58,Mixed SM 2021,FSL,150,D,8,5,Offense,Catch,CC,MV,,,MV,AL,CC,EL,JV,JS,SG,W,W,,1,0,0,,,,MV,0,W,,,,0,WW,FSL0805,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 60,2021-09-06 16:58,Mixed SM 2021,FSL,150,D,8,5,Offense,Goal,MV,JV,,,MV,AL,CC,EL,JV,JS,SG,W,M,,1,0,0,1.0,,JV,,0,W,,,,0,WM,FSL0805,0,0,0,0,0,0,1,0,0,0,0,0,0,1
 61,2021-09-06 16:58,Mixed SM 2021,FSL,154,D,8,6,Defense,Pull,,,SG,6.689,SB,JL,EL,JS,JV,SG,GA,,,M,0,1,0,,,,,0,,,,,0,,FSL0806,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-62,2021-09-06 16:58,Mixed SM 2021,FSL,154,D,8,6,Defense,D,,,JV,,SB,JL,EL,JS,JV,SG,GA,,,M,0,1,0,,,,,1,,,,,0,,FSL0806,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+62,2021-09-06 16:58,Mixed SM 2021,FSL,154,D,8,6,Defense,D,,,JV,,SB,JL,EL,JS,JV,SG,GA,,,M,0,1,0,,,,,1,M,,,,0,,FSL0806,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 63,2021-09-06 16:58,Mixed SM 2021,FSL,154,D,8,6,Offense,Catch,SG,EL,,,SB,JL,EL,JS,JV,SG,GA,M,W,,0,1,0,,,,,0,M,,,,0,MW,FSL0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 64,2021-09-06 16:58,Mixed SM 2021,FSL,154,D,8,6,Offense,Catch,EL,GA,,,SB,JL,EL,JS,JV,SG,GA,W,M,,0,1,0,,,,,0,W,,,,0,WM,FSL0806,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 65,2021-09-06 16:58,Mixed SM 2021,FSL,154,D,8,6,Offense,Catch,GA,JL,,,SB,JL,EL,JS,JV,SG,GA,M,W,,0,1,0,,,,,0,M,,,,0,MW,FSL0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
@@ -87,17 +87,17 @@
 85,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,130,D,0,1,Defense,Goal,,,Anonymous,,JL,MV,MR,CC,LB,JS,SG,,,U,1,0,0,-0.5,,,,0,,,,,0,,Fly High Lausanne0001,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 86,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,GA,SH,,,AY,SB,FS,SH,EL,JV,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 87,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,SH,AY,,,AY,SB,FS,SH,EL,JV,GA,M,W,,0,1,1,,,,,0,M,,,,0,MW,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-88,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,AY,GA,,,AY,SB,FS,SH,EL,JV,GA,W,M,,0,1,1,,,,,0,W,1.0,WM,"('AY', 'GA')",0,WM,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-89,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,GA,AY,,,AY,SB,FS,SH,EL,JV,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('AY', 'GA')",0,MW,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-90,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,AY,GA,,,AY,SB,FS,SH,EL,JV,GA,W,M,,0,1,1,,,,,0,W,1.0,WM,"('AY', 'GA')",0,WM,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-91,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,GA,AY,,,AY,SB,FS,SH,EL,JV,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('AY', 'GA')",0,MW,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-92,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,AY,GA,,,AY,SB,FS,SH,EL,JV,GA,W,M,,0,1,1,,,,,0,W,1.0,WM,"('AY', 'GA')",0,WM,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-93,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,GA,AY,,,AY,SB,FS,SH,EL,JV,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('AY', 'GA')",0,MW,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+88,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,AY,GA,,,AY,SB,FS,SH,EL,JV,GA,W,M,,0,1,1,,,,,0,W,1.0,WM,"('Asli', 'Georg')",0,WM,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+89,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,GA,AY,,,AY,SB,FS,SH,EL,JV,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('Asli', 'Georg')",0,MW,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+90,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,AY,GA,,,AY,SB,FS,SH,EL,JV,GA,W,M,,0,1,1,,,,,0,W,1.0,WM,"('Asli', 'Georg')",0,WM,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+91,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,GA,AY,,,AY,SB,FS,SH,EL,JV,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('Asli', 'Georg')",0,MW,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+92,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,AY,GA,,,AY,SB,FS,SH,EL,JV,GA,W,M,,0,1,1,,,,,0,W,1.0,WM,"('Asli', 'Georg')",0,WM,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+93,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,GA,AY,,,AY,SB,FS,SH,EL,JV,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('Asli', 'Georg')",0,MW,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 94,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,AY,GA,,,AY,SB,FS,SH,EL,JV,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 95,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,GA,SH,,,AY,SB,FS,SH,EL,JV,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 96,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,SH,AY,,,AY,SB,FS,SH,EL,JV,GA,M,W,,0,1,1,,,,,0,M,,,,0,MW,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-97,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,AY,GA,,,AY,SB,FS,SH,EL,JV,GA,W,M,,0,1,1,,,,,0,W,1.0,WM,"('AY', 'GA')",0,WM,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-98,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,GA,AY,,,AY,SB,FS,SH,EL,JV,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('AY', 'GA')",0,MW,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+97,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,AY,GA,,,AY,SB,FS,SH,EL,JV,GA,W,M,,0,1,1,,,,,0,W,1.0,WM,"('Asli', 'Georg')",0,WM,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+98,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,GA,AY,,,AY,SB,FS,SH,EL,JV,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('Asli', 'Georg')",0,MW,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 99,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,AY,GA,,,AY,SB,FS,SH,EL,JV,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 100,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,GA,SH,,,AY,SB,FS,SH,EL,JV,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 101,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,SH,AY,,,AY,SB,FS,SH,EL,JV,GA,M,W,,0,1,1,,,,,0,M,,,,0,MW,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,1,0,0
@@ -105,17 +105,17 @@
 103,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,JV,FS,,,AY,SB,FS,SH,EL,JV,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 104,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,FS,GA,,,AY,SB,FS,SH,EL,JV,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 105,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,GA,SH,,,AY,SB,FS,SH,EL,JV,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-106,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,SH,AY,,,AY,SB,FS,SH,EL,JV,GA,M,W,,0,1,1,,AY,,,0,M,1.0,MW,"('AY', 'SH')",0,MW,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+106,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,SH,AY,,,AY,SB,FS,SH,EL,JV,GA,M,W,,0,1,1,,AY,,,0,M,1.0,MW,"('Asli', 'Seba')",0,MW,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 107,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Catch,AY,SH,,,AY,SB,FS,SH,EL,JV,GA,W,M,,0,1,1,,,,SH,0,W,,,,0,WM,Fly High Lausanne0101,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 108,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,1,1,Offense,Goal,SH,Anonymous,,,AY,SB,FS,SH,EL,JV,GA,M,U,,0,1,1,0.5,,Anonymous,,0,M,,,,0,MU,Fly High Lausanne0101,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 109,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,138,D,2,1,Defense,Pull,,,SG,6.848,JL,MV,MR,CS,CC,JS,SG,,,M,0,1,0,,,,,0,,,,,0,,Fly High Lausanne0201,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 110,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,138,D,2,1,Defense,Throwaway,,,Anonymous,,JL,MV,MR,CS,CC,JS,SG,,,U,0,1,0,,,,,1,,,,,1,,Fly High Lausanne0201,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 111,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,138,D,2,1,Offense,Throwaway,CS,Anonymous,,,JL,MV,MR,CS,CC,JS,SG,M,U,,0,1,0,,,,,1,M,,,,0,MU,Fly High Lausanne0201,0,0,0,0,0,0,0,0,0,0,1,1,0,0
-112,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,138,D,2,1,Defense,D,,,SG,,JL,MV,MR,CS,CC,JS,SG,,,M,0,1,0,,,,,1,,,,,0,,Fly High Lausanne0201,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+112,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,138,D,2,1,Defense,D,,,SG,,JL,MV,MR,CS,CC,JS,SG,,,M,0,1,0,,,,,1,M,,,,0,,Fly High Lausanne0201,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 113,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,138,D,2,1,Offense,Goal,SG,MR,,,JL,MV,MR,CS,CC,JS,SG,M,M,,0,1,0,1.0,,MR,,0,M,,,,0,MM,Fly High Lausanne0201,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 114,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,158,D,3,1,Defense,Pull,,,MV,2.752,JL,MV,CS,LB,EL,JV,SG,,,W,1,0,0,,,,,0,,,,,0,,Fly High Lausanne0301,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 115,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,158,D,3,1,Defense,Throwaway,,,Anonymous,,JL,MV,CS,LB,EL,JV,SG,,,U,1,0,0,,,,,1,,,,,1,,Fly High Lausanne0301,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-116,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,158,D,3,1,Offense,Catch,SG,MV,,,JL,MV,CS,LB,EL,JV,SG,M,W,,1,0,0,,,,,0,M,1.0,MW,"('MV', 'SG')",0,MW,Fly High Lausanne0301,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+116,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,158,D,3,1,Offense,Catch,SG,MV,,,JL,MV,CS,LB,EL,JV,SG,M,W,,1,0,0,,,,,0,M,1.0,MW,"('Malvina', 'Sebi')",0,MW,Fly High Lausanne0301,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 117,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,158,D,3,1,Offense,Catch,MV,SG,,,JL,MV,CS,LB,EL,JV,SG,W,M,,1,0,0,,,,,0,W,,,,0,WM,Fly High Lausanne0301,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 118,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,158,D,3,1,Offense,Catch,SG,JV,,,JL,MV,CS,LB,EL,JV,SG,M,M,,1,0,0,,,,,0,M,,,,0,MM,Fly High Lausanne0301,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 119,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,158,D,3,1,Offense,Catch,JV,LB,,,JL,MV,CS,LB,EL,JV,SG,M,W,,1,0,0,,LB,,,0,M,,,,0,MW,Fly High Lausanne0301,1,0,0,0,0,0,0,0,0,0,0,1,0,0
@@ -124,9 +124,9 @@
 122,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,6,D,3,2,Defense,Pull,,,SB,4.28,SB,MV,MR,CC,EL,JS,SG,,,W,1,0,0,,,,,0,,,,,0,,Fly High Lausanne0302,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 123,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,6,D,3,2,Defense,Goal,,,Anonymous,,SB,MV,MR,CC,EL,JS,SG,,,U,1,0,0,-0.5,,,,0,,,,,0,,Fly High Lausanne0302,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 124,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Offense,Catch,GA,FS,,,FS,JL,AY,SB,SH,JV,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0402,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-125,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Offense,Catch,FS,SH,,,FS,JL,AY,SB,SH,JV,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('FS', 'SH')",0,MM,Fly High Lausanne0402,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+125,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Offense,Catch,FS,SH,,,FS,JL,AY,SB,SH,JV,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Francesc', 'Seba')",0,MM,Fly High Lausanne0402,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 126,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Offense,Catch,SH,FS,,,FS,JL,AY,SB,SH,JV,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0402,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-127,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Offense,Catch,FS,GA,,,FS,JL,AY,SB,SH,JV,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('FS', 'GA')",0,MM,Fly High Lausanne0402,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+127,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Offense,Catch,FS,GA,,,FS,JL,AY,SB,SH,JV,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Francesc', 'Georg')",0,MM,Fly High Lausanne0402,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 128,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Offense,Catch,GA,FS,,,FS,JL,AY,SB,SH,JV,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0402,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 129,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Offense,Catch,FS,JV,,,FS,JL,AY,SB,SH,JV,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0402,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 130,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Offense,Catch,JV,SB,,,FS,JL,AY,SB,SH,JV,GA,M,W,,0,1,1,,,,,0,M,,,,0,MW,Fly High Lausanne0402,1,0,0,0,0,0,0,0,0,0,0,1,0,0
@@ -134,10 +134,10 @@
 132,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Offense,Catch,JL,FS,,,FS,JL,AY,SB,SH,JV,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Fly High Lausanne0402,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 133,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Offense,Catch,FS,Anonymous,,,FS,JL,AY,SB,SH,JV,GA,M,U,,0,1,1,,,,,0,M,,,,0,MU,Fly High Lausanne0402,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 134,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Offense,Throwaway,Anonymous,Anonymous,,,FS,JL,AY,SB,SH,JV,GA,U,U,,0,1,1,,,,,1,U,,,,0,UU,Fly High Lausanne0402,0,0,0,0,0,0,0,0,0,0,1,0,1,0
-135,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Defense,D,,,JV,,FS,JL,AY,SB,SH,JV,GA,,,M,0,1,1,,,,,1,,,,,0,,Fly High Lausanne0402,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+135,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Defense,D,,,JV,,FS,JL,AY,SB,SH,JV,GA,,,M,0,1,1,,,,,1,M,,,,0,,Fly High Lausanne0402,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 136,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Offense,Catch,FS,SH,,,FS,JL,AY,SB,SH,JV,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0402,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 137,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Offense,Catch,SH,GA,,,FS,JL,AY,SB,SH,JV,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0402,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-138,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Offense,Catch,GA,FS,,,FS,JL,AY,SB,SH,JV,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('FS', 'GA')",0,MM,Fly High Lausanne0402,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+138,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Offense,Catch,GA,FS,,,FS,JL,AY,SB,SH,JV,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Francesc', 'Georg')",0,MM,Fly High Lausanne0402,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 139,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Offense,Catch,FS,GA,,,FS,JL,AY,SB,SH,JV,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0402,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 140,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Offense,Catch,GA,SH,,,FS,JL,AY,SB,SH,JV,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0402,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 141,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,263,O,4,2,Offense,Catch,SH,JL,,,FS,JL,AY,SB,SH,JV,GA,M,W,,0,1,1,,,,,0,M,,,,0,MW,Fly High Lausanne0402,1,0,0,0,0,0,0,0,0,0,0,1,0,0
@@ -153,16 +153,16 @@
 151,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,159,O,4,4,Offense,Throwaway,SH,Anonymous,,,AY,FS,JL,SB,MV,SH,GA,M,U,,1,0,1,,,,,1,M,,,,0,MU,Fly High Lausanne0404,0,0,0,0,0,0,0,0,0,0,1,1,0,0
 152,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,159,O,4,4,Defense,Throwaway,,,Anonymous,,AY,FS,JL,SB,MV,SH,GA,,,U,1,0,1,,,,,1,,,,,1,,Fly High Lausanne0404,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 153,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,159,O,4,4,Offense,Catch,AY,GA,,,AY,FS,JL,SB,MV,SH,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Fly High Lausanne0404,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-154,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,159,O,4,4,Offense,Catch,GA,SB,,,AY,FS,JL,SB,MV,SH,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('GA', 'SB')",0,MW,Fly High Lausanne0404,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+154,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,159,O,4,4,Offense,Catch,GA,SB,,,AY,FS,JL,SB,MV,SH,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('Georg', 'Zosh')",0,MW,Fly High Lausanne0404,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 155,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,159,O,4,4,Offense,Catch,SB,GA,,,AY,FS,JL,SB,MV,SH,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Fly High Lausanne0404,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 156,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,159,O,4,4,Offense,Catch,GA,SH,,,AY,FS,JL,SB,MV,SH,GA,M,M,,1,0,1,,,,,0,M,,,,0,MM,Fly High Lausanne0404,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-157,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,159,O,4,4,Offense,Catch,SH,MV,,,AY,FS,JL,SB,MV,SH,GA,M,W,,1,0,1,,MV,,,0,M,,,,0,MW,Fly High Lausanne0404,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+157,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,159,O,4,4,Offense,Catch,SH,MV,,,AY,FS,JL,SB,MV,SH,GA,M,W,,1,0,1,,,,,0,M,,,,0,MW,Fly High Lausanne0404,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 158,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,159,O,4,4,Offense,Drop,MV,GA,,,AY,FS,JL,SB,MV,SH,GA,W,M,,1,0,1,,,,,1,M,,,,0,WM,Fly High Lausanne0404,0,0,1,0,0,0,0,0,0,0,0,1,0,0
 159,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,159,O,4,4,Defense,Goal,,,Anonymous,,AY,FS,JL,SB,MV,SH,GA,,,U,1,0,1,-1.0,,,,0,,,,,0,,Fly High Lausanne0404,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 160,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,135,O,4,5,Offense,Catch,SB,SH,,,SB,AY,FS,CC,SH,EL,JV,W,M,,1,0,1,,,,,0,W,,,,0,WM,Fly High Lausanne0405,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 161,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,135,O,4,5,Offense,Throwaway,SH,Anonymous,,,SB,AY,FS,CC,SH,EL,JV,M,U,,1,0,1,,,,,1,M,,,,0,MU,Fly High Lausanne0405,0,0,0,0,0,0,0,0,0,0,1,1,0,0
-162,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,135,O,4,5,Defense,D,,,FS,,SB,AY,FS,CC,SH,EL,JV,,,M,1,0,1,,,,,1,,,,,0,,Fly High Lausanne0405,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-163,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,135,O,4,5,Offense,Catch,FS,AY,,,SB,AY,FS,CC,SH,EL,JV,M,W,,1,0,1,,,,,0,M,1.0,MW,"('AY', 'FS')",0,MW,Fly High Lausanne0405,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+162,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,135,O,4,5,Defense,D,,,FS,,SB,AY,FS,CC,SH,EL,JV,,,M,1,0,1,,,,,1,M,,,,0,,Fly High Lausanne0405,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+163,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,135,O,4,5,Offense,Catch,FS,AY,,,SB,AY,FS,CC,SH,EL,JV,M,W,,1,0,1,,,,,0,M,1.0,MW,"('Asli', 'Francesc')",0,MW,Fly High Lausanne0405,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 164,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,135,O,4,5,Offense,Catch,AY,FS,,,SB,AY,FS,CC,SH,EL,JV,W,M,,1,0,1,,,,,0,W,,,,0,WM,Fly High Lausanne0405,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 165,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,135,O,4,5,Offense,Catch,FS,JV,,,SB,AY,FS,CC,SH,EL,JV,M,M,,1,0,1,,,,,0,M,,,,0,MM,Fly High Lausanne0405,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 166,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,135,O,4,5,Offense,Throwaway,JV,Anonymous,,,SB,AY,FS,CC,SH,EL,JV,M,U,,1,0,1,,,,,1,M,,,,0,MU,Fly High Lausanne0405,0,0,0,0,0,0,0,0,0,0,1,1,0,0
@@ -170,41 +170,41 @@
 168,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,131,O,4,6,Offense,Catch,SH,MV,,,JL,MV,MR,SH,LB,GA,SG,M,W,,0,1,1,,,,,0,M,,,,0,MW,Fly High Lausanne0406,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 169,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,131,O,4,6,Offense,Throwaway,MV,Anonymous,,,JL,MV,MR,SH,LB,GA,SG,W,U,,0,1,1,,,,,1,W,,,,0,WU,Fly High Lausanne0406,0,0,0,0,0,0,0,0,0,0,1,0,0,1
 170,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,131,O,4,6,Defense,Goal,,,Anonymous,,JL,MV,MR,SH,LB,GA,SG,,,U,0,1,1,-1.0,,,,0,,,,,0,,Fly High Lausanne0406,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-171,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,SH,GA,,,FS,AY,CC,SH,EL,JV,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('GA', 'SH')",0,MM,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+171,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,SH,GA,,,FS,AY,CC,SH,EL,JV,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Georg', 'Seba')",0,MM,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 172,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,GA,SH,,,FS,AY,CC,SH,EL,JV,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-173,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,SH,EL,,,FS,AY,CC,SH,EL,JV,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('EL', 'SH')",0,MW,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+173,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,SH,EL,,,FS,AY,CC,SH,EL,JV,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('Erica', 'Seba')",0,MW,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 174,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,EL,SH,,,FS,AY,CC,SH,EL,JV,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 175,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,SH,GA,,,FS,AY,CC,SH,EL,JV,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 176,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,GA,FS,,,FS,AY,CC,SH,EL,JV,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-177,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,FS,AY,,,FS,AY,CC,SH,EL,JV,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('AY', 'FS')",0,MW,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+177,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,FS,AY,,,FS,AY,CC,SH,EL,JV,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('Asli', 'Francesc')",0,MW,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 178,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,AY,FS,,,FS,AY,CC,SH,EL,JV,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-179,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,FS,GA,,,FS,AY,CC,SH,EL,JV,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('FS', 'GA')",0,MM,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+179,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,FS,GA,,,FS,AY,CC,SH,EL,JV,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Francesc', 'Georg')",0,MM,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 180,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,GA,FS,,,FS,AY,CC,SH,EL,JV,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 181,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,FS,SH,,,FS,AY,CC,SH,EL,JV,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-182,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,SH,EL,,,FS,AY,CC,SH,EL,JV,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('EL', 'SH')",0,MW,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+182,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,SH,EL,,,FS,AY,CC,SH,EL,JV,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('Erica', 'Seba')",0,MW,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 183,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,EL,SH,,,FS,AY,CC,SH,EL,JV,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 184,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,SH,Anonymous,,,FS,AY,CC,SH,EL,JV,GA,M,U,,0,1,1,,,,,0,M,,,,0,MU,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 185,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,Anonymous,CC,,,FS,AY,CC,SH,EL,JV,GA,U,W,,0,1,1,,CC,,,0,U,,,,0,UW,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 186,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Catch,CC,SH,,,FS,AY,CC,SH,EL,JV,GA,W,M,,0,1,1,,,,SH,0,W,,,,0,WM,Fly High Lausanne0506,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 187,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,155,O,5,6,Offense,Goal,SH,Anonymous,,,FS,AY,CC,SH,EL,JV,GA,M,U,,0,1,1,0.5,,Anonymous,,0,M,,,,0,MU,Fly High Lausanne0506,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 188,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,134,D,6,6,Defense,Pull,,,SB,6.775,JL,SB,MV,MR,LB,JS,SG,,,W,1,0,0,,,,,0,,,,,0,,Fly High Lausanne0606,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-189,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,134,D,6,6,Defense,D,,,SG,,JL,SB,MV,MR,LB,JS,SG,,,M,1,0,0,,,,,1,,,,,0,,Fly High Lausanne0606,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+189,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,134,D,6,6,Defense,D,,,SG,,JL,SB,MV,MR,LB,JS,SG,,,M,1,0,0,,,,,1,M,,,,0,,Fly High Lausanne0606,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 190,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,134,D,6,6,Offense,Goal,SG,MR,,,JL,SB,MV,MR,LB,JS,SG,M,M,,1,0,0,1.0,,MR,,0,M,,,,0,MM,Fly High Lausanne0606,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 191,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,122,D,6,7,Defense,Pull,,,MV,3.587,JL,MV,CS,LB,EL,JV,SG,,,W,1,0,0,,,,,0,,,,,0,,Fly High Lausanne0607,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 192,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,122,D,6,7,Defense,Goal,,,Anonymous,,JL,MV,CS,LB,EL,JV,SG,,,U,1,0,0,-0.5,,,,0,,,,,0,,Fly High Lausanne0607,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 193,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,131,O,7,7,Offense,Catch,AY,SH,,,AY,SB,FS,CC,SH,JS,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Fly High Lausanne0707,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-194,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,131,O,7,7,Offense,Catch,SH,SB,,,AY,SB,FS,CC,SH,JS,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('SB', 'SH')",0,MW,Fly High Lausanne0707,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+194,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,131,O,7,7,Offense,Catch,SH,SB,,,AY,SB,FS,CC,SH,JS,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('Seba', 'Zosh')",0,MW,Fly High Lausanne0707,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 195,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,131,O,7,7,Offense,Catch,SB,SH,,,AY,SB,FS,CC,SH,JS,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Fly High Lausanne0707,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-196,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,131,O,7,7,Offense,Catch,SH,JS,,,AY,SB,FS,CC,SH,JS,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('JS', 'SH')",0,MM,Fly High Lausanne0707,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-197,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,131,O,7,7,Offense,Catch,JS,SH,,,AY,SB,FS,CC,SH,JS,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('JS', 'SH')",0,MM,Fly High Lausanne0707,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+196,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,131,O,7,7,Offense,Catch,SH,JS,,,AY,SB,FS,CC,SH,JS,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Jack', 'Seba')",0,MM,Fly High Lausanne0707,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+197,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,131,O,7,7,Offense,Catch,JS,SH,,,AY,SB,FS,CC,SH,JS,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Jack', 'Seba')",0,MM,Fly High Lausanne0707,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 198,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,131,O,7,7,Offense,Catch,SH,JS,,,AY,SB,FS,CC,SH,JS,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0707,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 199,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,131,O,7,7,Offense,Catch,JS,FS,,,AY,SB,FS,CC,SH,JS,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0707,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 200,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,131,O,7,7,Offense,Catch,FS,SH,,,AY,SB,FS,CC,SH,JS,GA,M,M,,0,1,1,,SH,,,0,M,,,,0,MM,Fly High Lausanne0707,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-201,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,131,O,7,7,Offense,Catch,SH,GA,,,AY,SB,FS,CC,SH,JS,GA,M,M,,0,1,1,,,,GA,0,M,1.0,MM,"('GA', 'SH')",0,MM,Fly High Lausanne0707,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+201,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,131,O,7,7,Offense,Catch,SH,GA,,,AY,SB,FS,CC,SH,JS,GA,M,M,,0,1,1,,,,GA,0,M,1.0,MM,"('Georg', 'Seba')",0,MM,Fly High Lausanne0707,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 202,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,131,O,7,7,Offense,Goal,GA,SH,,,AY,SB,FS,CC,SH,JS,GA,M,M,,0,1,1,0.5,,SH,,0,M,,,,0,MM,Fly High Lausanne0707,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 203,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,142,D,7,8,Defense,Pull,,,SG,6.237,JL,MV,MR,CS,LB,JV,SG,,,M,0,1,0,,,,,0,,,,,0,,Fly High Lausanne0708,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 204,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,142,D,7,8,Defense,Throwaway,,,Anonymous,,JL,MV,MR,CS,LB,JV,SG,,,U,0,1,0,,,,,1,,,,,1,,Fly High Lausanne0708,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-205,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,142,D,7,8,Offense,Catch,SG,MR,,,JL,MV,MR,CS,LB,JV,SG,M,M,,0,1,0,,,,,0,M,1.0,MM,"('MR', 'SG')",0,MM,Fly High Lausanne0708,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+205,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,142,D,7,8,Offense,Catch,SG,MR,,,JL,MV,MR,CS,LB,JV,SG,M,M,,0,1,0,,,,,0,M,1.0,MM,"('Mo', 'Sebi')",0,MM,Fly High Lausanne0708,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 206,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,142,D,7,8,Offense,Catch,MR,SG,,,JL,MV,MR,CS,LB,JV,SG,M,M,,0,1,0,,,,,0,M,,,,0,MM,Fly High Lausanne0708,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 207,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,142,D,7,8,Offense,Catch,SG,JL,,,JL,MV,MR,CS,LB,JV,SG,M,W,,0,1,0,,,,,0,M,,,,0,MW,Fly High Lausanne0708,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 208,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,142,D,7,8,Offense,Throwaway,JL,Anonymous,,,JL,MV,MR,CS,LB,JV,SG,W,U,,0,1,0,,,,,1,W,,,,0,WU,Fly High Lausanne0708,0,0,0,0,0,0,0,0,0,0,1,0,0,1
@@ -221,15 +221,15 @@
 219,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,151,O,7,9,Offense,Throwaway,AY,Anonymous,,,SB,FS,AY,CC,SH,EL,GA,W,U,,1,0,1,,,,,1,W,,,,0,WU,Fly High Lausanne0709,0,0,0,0,0,0,0,0,0,0,1,0,0,1
 220,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,151,O,7,9,Defense,Throwaway,,,Anonymous,,SB,FS,AY,CC,SH,EL,GA,,,U,1,0,1,,,,,1,,,,,1,,Fly High Lausanne0709,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 221,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,151,O,7,9,Offense,Catch,SH,FS,,,SB,FS,AY,CC,SH,EL,GA,M,M,,1,0,1,,,,,0,M,,,,0,MM,Fly High Lausanne0709,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-222,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,151,O,7,9,Offense,Catch,FS,GA,,,SB,FS,AY,CC,SH,EL,GA,M,M,,1,0,1,,GA,,,0,M,,,,0,MM,Fly High Lausanne0709,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+222,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,151,O,7,9,Offense,Catch,FS,GA,,,SB,FS,AY,CC,SH,EL,GA,M,M,,1,0,1,,,,,0,M,,,,0,MM,Fly High Lausanne0709,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 223,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,151,O,7,9,Offense,Drop,GA,SB,,,SB,FS,AY,CC,SH,EL,GA,M,W,,1,0,1,,,,,1,W,,,,0,MW,Fly High Lausanne0709,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 224,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,151,O,7,9,Defense,Goal,,,Anonymous,,SB,FS,AY,CC,SH,EL,GA,,,U,1,0,1,-1.0,,,,0,,,,,0,,Fly High Lausanne0709,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-225,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,143,O,8,9,Offense,Catch,AY,FS,,,AY,FS,JL,MV,MR,LB,SG,W,M,,1,0,1,,,,,0,W,1.0,WM,"('AY', 'FS')",0,WM,Fly High Lausanne0809,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+225,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,143,O,8,9,Offense,Catch,AY,FS,,,AY,FS,JL,MV,MR,LB,SG,W,M,,1,0,1,,,,,0,W,1.0,WM,"('Asli', 'Francesc')",0,WM,Fly High Lausanne0809,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 226,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,143,O,8,9,Offense,Catch,FS,AY,,,AY,FS,JL,MV,MR,LB,SG,M,W,,1,0,1,,,,,0,M,,,,0,MW,Fly High Lausanne0809,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-227,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,143,O,8,9,Offense,Catch,AY,MV,,,AY,FS,JL,MV,MR,LB,SG,W,W,,1,0,1,,,,,0,W,1.0,WW,"('AY', 'MV')",0,WW,Fly High Lausanne0809,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+227,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,143,O,8,9,Offense,Catch,AY,MV,,,AY,FS,JL,MV,MR,LB,SG,W,W,,1,0,1,,,,,0,W,1.0,WW,"('Asli', 'Malvina')",0,WW,Fly High Lausanne0809,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 228,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,143,O,8,9,Offense,Catch,MV,AY,,,AY,FS,JL,MV,MR,LB,SG,W,W,,1,0,1,,,,,0,W,,,,0,WW,Fly High Lausanne0809,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 229,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,143,O,8,9,Offense,Catch,AY,FS,,,AY,FS,JL,MV,MR,LB,SG,W,M,,1,0,1,,,,,0,W,,,,0,WM,Fly High Lausanne0809,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-230,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,143,O,8,9,Offense,Catch,FS,MR,,,AY,FS,JL,MV,MR,LB,SG,M,M,,1,0,1,,,,,0,M,1.0,MM,"('FS', 'MR')",0,MM,Fly High Lausanne0809,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+230,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,143,O,8,9,Offense,Catch,FS,MR,,,AY,FS,JL,MV,MR,LB,SG,M,M,,1,0,1,,,,,0,M,1.0,MM,"('Francesc', 'Mo')",0,MM,Fly High Lausanne0809,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 231,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,143,O,8,9,Offense,Catch,MR,FS,,,AY,FS,JL,MV,MR,LB,SG,M,M,,1,0,1,,,,,0,M,,,,0,MM,Fly High Lausanne0809,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 232,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,143,O,8,9,Offense,Catch,FS,SG,,,AY,FS,JL,MV,MR,LB,SG,M,M,,1,0,1,,,,,0,M,,,,0,MM,Fly High Lausanne0809,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 233,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,143,O,8,9,Offense,Catch,SG,Anonymous,,,AY,FS,JL,MV,MR,LB,SG,M,U,,1,0,1,,,,,0,M,,,,0,MU,Fly High Lausanne0809,1,0,0,0,0,0,0,0,0,0,0,1,0,0
@@ -237,16 +237,16 @@
 235,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,143,O,8,9,Offense,Catch,FS,MV,,,AY,FS,JL,MV,MR,LB,SG,M,W,,1,0,1,,,,,0,M,,,,0,MW,Fly High Lausanne0809,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 236,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,143,O,8,9,Offense,Catch,MV,SG,,,AY,FS,JL,MV,MR,LB,SG,W,M,,1,0,1,,,,,0,W,,,,0,WM,Fly High Lausanne0809,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 237,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,143,O,8,9,Offense,Throwaway,SG,Anonymous,,,AY,FS,JL,MV,MR,LB,SG,M,U,,1,0,1,,,,,1,M,,,,0,MU,Fly High Lausanne0809,0,0,0,0,0,0,0,0,0,0,1,1,0,0
-238,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,143,O,8,9,Defense,D,,,FS,,AY,FS,JL,MV,MR,LB,SG,,,M,1,0,1,,,,,1,,,,,0,,Fly High Lausanne0809,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+238,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,143,O,8,9,Defense,D,,,FS,,AY,FS,JL,MV,MR,LB,SG,,,M,1,0,1,,,,,1,M,,,,0,,Fly High Lausanne0809,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 239,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,143,O,8,9,Offense,Catch,FS,SG,,,AY,FS,JL,MV,MR,LB,SG,M,M,,1,0,1,,,,SG,0,M,,,,0,MM,Fly High Lausanne0809,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 240,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,143,O,8,9,Offense,Goal,SG,Anonymous,,,AY,FS,JL,MV,MR,LB,SG,M,U,,1,0,1,0.5,,Anonymous,,0,M,,,,0,MU,Fly High Lausanne0809,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 241,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,118,D,8,10,Defense,Pull,,,SG,4.321,SB,MV,MR,CS,EL,JV,SG,,,M,0,1,0,,,,,0,,,,,0,,Fly High Lausanne0810,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 242,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,118,D,8,10,Defense,Goal,,,Anonymous,,SB,MV,MR,CS,EL,JV,SG,,,U,0,1,0,-0.5,,,,0,,,,,0,,Fly High Lausanne0810,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-243,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,147,O,9,10,Offense,Catch,SH,AY,,,FS,AY,CC,SH,LB,JS,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('AY', 'SH')",0,MW,Fly High Lausanne0910,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+243,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,147,O,9,10,Offense,Catch,SH,AY,,,FS,AY,CC,SH,LB,JS,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('Asli', 'Seba')",0,MW,Fly High Lausanne0910,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 244,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,147,O,9,10,Offense,Catch,AY,SH,,,FS,AY,CC,SH,LB,JS,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Fly High Lausanne0910,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-245,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,147,O,9,10,Offense,Catch,SH,FS,,,FS,AY,CC,SH,LB,JS,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('FS', 'SH')",0,MM,Fly High Lausanne0910,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-246,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,147,O,9,10,Offense,Catch,FS,SH,,,FS,AY,CC,SH,LB,JS,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('FS', 'SH')",0,MM,Fly High Lausanne0910,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-247,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,147,O,9,10,Offense,Catch,SH,FS,,,FS,AY,CC,SH,LB,JS,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('FS', 'SH')",0,MM,Fly High Lausanne0910,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+245,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,147,O,9,10,Offense,Catch,SH,FS,,,FS,AY,CC,SH,LB,JS,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Francesc', 'Seba')",0,MM,Fly High Lausanne0910,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+246,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,147,O,9,10,Offense,Catch,FS,SH,,,FS,AY,CC,SH,LB,JS,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Francesc', 'Seba')",0,MM,Fly High Lausanne0910,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+247,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,147,O,9,10,Offense,Catch,SH,FS,,,FS,AY,CC,SH,LB,JS,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Francesc', 'Seba')",0,MM,Fly High Lausanne0910,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 248,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,147,O,9,10,Offense,Catch,FS,SH,,,FS,AY,CC,SH,LB,JS,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Fly High Lausanne0910,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 249,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,147,O,9,10,Offense,Catch,SH,LB,,,FS,AY,CC,SH,LB,JS,GA,M,W,,0,1,1,,,,,0,M,,,,0,MW,Fly High Lausanne0910,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 250,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,147,O,9,10,Offense,Catch,LB,FS,,,FS,AY,CC,SH,LB,JS,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Fly High Lausanne0910,1,0,0,0,0,0,0,0,0,0,0,0,0,1
@@ -255,7 +255,7 @@
 253,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,147,O,9,10,Offense,Catch,JS,AY,,,FS,AY,CC,SH,LB,JS,GA,M,W,,0,1,1,,,,AY,0,M,,,,0,MW,Fly High Lausanne0910,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 254,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,147,O,9,10,Offense,Goal,AY,CC,,,FS,AY,CC,SH,LB,JS,GA,W,W,,0,1,1,0.5,,CC,,0,W,,,,0,WW,Fly High Lausanne0910,0,0,0,0,0,0,1,0,0,0,0,0,0,1
 255,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,122,D,9,11,Defense,Pull,,,EL,5.884,JL,SB,MV,CS,EL,JV,SG,,,W,1,0,0,,,,,0,,,,,0,,Fly High Lausanne0911,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-256,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,122,D,9,11,Defense,D,,,JV,,JL,SB,MV,CS,EL,JV,SG,,,M,1,0,0,,,,,1,,,,,0,,Fly High Lausanne0911,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+256,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,122,D,9,11,Defense,D,,,JV,,JL,SB,MV,CS,EL,JV,SG,,,M,1,0,0,,,,,1,M,,,,0,,Fly High Lausanne0911,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 257,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,122,D,9,11,Offense,Catch,MV,SG,,,JL,SB,MV,CS,EL,JV,SG,W,M,,1,0,0,,,,,0,W,,,,0,WM,Fly High Lausanne0911,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 258,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,122,D,9,11,Offense,Throwaway,SG,Anonymous,,,JL,SB,MV,CS,EL,JV,SG,M,U,,1,0,0,,,,,1,M,,,,0,MU,Fly High Lausanne0911,0,0,0,0,0,0,0,0,0,0,1,1,0,0
 259,2021-09-06 10:36,Mixed SM 2021,Fly High Lausanne,122,D,9,11,Defense,Goal,,,Anonymous,,JL,SB,MV,CS,EL,JV,SG,,,U,1,0,0,-0.5,,,,0,,,,,0,,Fly High Lausanne0911,0,0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -271,18 +271,18 @@
 269,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,270,D,1,0,Defense,Throwaway,,,Anonymous,,JL,MV,MR,LB,JV,JS,SG,,,U,0,1,0,,,,,1,,,,,1,,Wombats Willisau0100,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 270,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,270,D,1,0,Offense,Catch,MV,SG,,,JL,MV,MR,LB,JV,JS,SG,W,M,,0,1,0,,,,,0,W,,,,0,WM,Wombats Willisau0100,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 271,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,270,D,1,0,Offense,Catch,SG,MR,,,JL,MV,MR,LB,JV,JS,SG,M,M,,0,1,0,,,,,0,M,,,,0,MM,Wombats Willisau0100,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-272,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,270,D,1,0,Offense,Catch,MR,LB,,,JL,MV,MR,LB,JV,JS,SG,M,W,,0,1,0,,,,,0,M,1.0,MW,"('LB', 'MR')",0,MW,Wombats Willisau0100,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-273,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,270,D,1,0,Offense,Catch,LB,MR,,,JL,MV,MR,LB,JV,JS,SG,W,M,,0,1,0,,,,,0,W,1.0,WM,"('LB', 'MR')",0,WM,Wombats Willisau0100,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-274,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,270,D,1,0,Offense,Catch,MR,LB,,,JL,MV,MR,LB,JV,JS,SG,M,W,,0,1,0,,,,,0,M,1.0,MW,"('LB', 'MR')",0,MW,Wombats Willisau0100,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+272,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,270,D,1,0,Offense,Catch,MR,LB,,,JL,MV,MR,LB,JV,JS,SG,M,W,,0,1,0,,,,,0,M,1.0,MW,"('Lynn', 'Mo')",0,MW,Wombats Willisau0100,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+273,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,270,D,1,0,Offense,Catch,LB,MR,,,JL,MV,MR,LB,JV,JS,SG,W,M,,0,1,0,,,,,0,W,1.0,WM,"('Lynn', 'Mo')",0,WM,Wombats Willisau0100,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+274,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,270,D,1,0,Offense,Catch,MR,LB,,,JL,MV,MR,LB,JV,JS,SG,M,W,,0,1,0,,,,,0,M,1.0,MW,"('Lynn', 'Mo')",0,MW,Wombats Willisau0100,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 275,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,270,D,1,0,Offense,Catch,LB,MR,,,JL,MV,MR,LB,JV,JS,SG,W,M,,0,1,0,,,,,0,W,,,,0,WM,Wombats Willisau0100,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 276,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,270,D,1,0,Offense,Catch,MR,SG,,,JL,MV,MR,LB,JV,JS,SG,M,M,,0,1,0,,,,,0,M,,,,0,MM,Wombats Willisau0100,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 277,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,270,D,1,0,Offense,Throwaway,SG,Anonymous,,,JL,MV,MR,LB,JV,JS,SG,M,U,,0,1,0,,,,,1,M,,,,0,MU,Wombats Willisau0100,0,0,0,0,0,0,0,0,0,0,1,1,0,0
-278,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,270,D,1,0,Defense,D,,,MR,,JL,MV,MR,LB,JV,JS,SG,,,M,0,1,0,,,,,1,,,,,0,,Wombats Willisau0100,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+278,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,270,D,1,0,Defense,D,,,MR,,JL,MV,MR,LB,JV,JS,SG,,,M,0,1,0,,,,,1,M,,,,0,,Wombats Willisau0100,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 279,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,270,D,1,0,Offense,Catch,SG,MV,,,JL,MV,MR,LB,JV,JS,SG,M,W,,0,1,0,,MV,,,0,M,,,,0,MW,Wombats Willisau0100,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 280,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,270,D,1,0,Offense,Catch,MV,MR,,,JL,MV,MR,LB,JV,JS,SG,W,M,,0,1,0,,,,MR,0,W,,,,0,WM,Wombats Willisau0100,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 281,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,270,D,1,0,Offense,Goal,MR,JS,,,JL,MV,MR,LB,JV,JS,SG,M,M,,0,1,0,1.0,,JS,,0,M,,,,0,MM,Wombats Willisau0100,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 282,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,142,D,2,0,Defense,Pull,,,MV,3.817,FS,MV,CC,LB,EL,JV,SG,,,W,1,0,0,,,,,0,,,,,0,,Wombats Willisau0200,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-283,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,142,D,2,0,Defense,D,,,SG,,FS,MV,CC,LB,EL,JV,SG,,,M,1,0,0,,,,,1,,,,,0,,Wombats Willisau0200,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+283,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,142,D,2,0,Defense,D,,,SG,,FS,MV,CC,LB,EL,JV,SG,,,M,1,0,0,,,,,1,M,,,,0,,Wombats Willisau0200,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 284,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,142,D,2,0,Offense,Catch,SG,CC,,,FS,MV,CC,LB,EL,JV,SG,M,W,,1,0,0,,,,,0,M,,,,0,MW,Wombats Willisau0200,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 285,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,142,D,2,0,Offense,Catch,CC,FS,,,FS,MV,CC,LB,EL,JV,SG,W,M,,1,0,0,,,,,0,W,,,,0,WM,Wombats Willisau0200,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 286,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,142,D,2,0,Offense,Catch,FS,EL,,,FS,MV,CC,LB,EL,JV,SG,M,W,,1,0,0,,EL,,,0,M,,,,0,MW,Wombats Willisau0200,1,0,0,0,0,0,0,0,0,0,0,1,0,0
@@ -300,19 +300,19 @@
 298,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,386,D,3,1,Offense,Catch,CC,JV,,,SB,JL,CC,JV,JS,SG,GA,W,M,,0,1,0,,,,,0,W,,,,0,WM,Wombats Willisau0301,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 299,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,386,D,3,1,Offense,Throwaway,JV,Anonymous,,,SB,JL,CC,JV,JS,SG,GA,M,U,,0,1,0,,,,,1,M,,,,0,MU,Wombats Willisau0301,0,0,0,0,0,0,0,0,0,0,1,1,0,0
 300,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,386,D,3,1,Defense,Goal,,,Anonymous,,SB,JL,CC,JV,JS,SG,GA,,,U,0,1,0,-0.5,,,,0,,,,,0,,Wombats Willisau0301,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-301,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Offense,Catch,SH,FS,,,AY,FS,MV,CS,SH,EL,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('FS', 'SH')",0,MM,Wombats Willisau0401,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-302,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Offense,Catch,FS,SH,,,AY,FS,MV,CS,SH,EL,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('FS', 'SH')",0,MM,Wombats Willisau0401,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-303,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Offense,Catch,SH,FS,,,AY,FS,MV,CS,SH,EL,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('FS', 'SH')",0,MM,Wombats Willisau0401,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-304,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Offense,Catch,FS,SH,,,AY,FS,MV,CS,SH,EL,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('FS', 'SH')",0,MM,Wombats Willisau0401,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+301,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Offense,Catch,SH,FS,,,AY,FS,MV,CS,SH,EL,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Francesc', 'Seba')",0,MM,Wombats Willisau0401,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+302,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Offense,Catch,FS,SH,,,AY,FS,MV,CS,SH,EL,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Francesc', 'Seba')",0,MM,Wombats Willisau0401,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+303,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Offense,Catch,SH,FS,,,AY,FS,MV,CS,SH,EL,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Francesc', 'Seba')",0,MM,Wombats Willisau0401,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+304,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Offense,Catch,FS,SH,,,AY,FS,MV,CS,SH,EL,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Francesc', 'Seba')",0,MM,Wombats Willisau0401,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 305,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Offense,Catch,SH,FS,,,AY,FS,MV,CS,SH,EL,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wombats Willisau0401,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 306,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Offense,Catch,FS,MV,,,AY,FS,MV,CS,SH,EL,GA,M,W,,0,1,1,,,,,0,M,,,,0,MW,Wombats Willisau0401,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 307,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Offense,Catch,MV,SH,,,AY,FS,MV,CS,SH,EL,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Wombats Willisau0401,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-308,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Offense,Catch,SH,CS,,,AY,FS,MV,CS,SH,EL,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('CS', 'SH')",0,MM,Wombats Willisau0401,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+308,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Offense,Catch,SH,CS,,,AY,FS,MV,CS,SH,EL,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Buddha', 'Seba')",0,MM,Wombats Willisau0401,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 309,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Offense,Catch,CS,SH,,,AY,FS,MV,CS,SH,EL,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wombats Willisau0401,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 310,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Offense,Catch,SH,MV,,,AY,FS,MV,CS,SH,EL,GA,M,W,,0,1,1,,,,,0,M,,,,0,MW,Wombats Willisau0401,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 311,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Offense,Catch,MV,EL,,,AY,FS,MV,CS,SH,EL,GA,W,W,,0,1,1,,,,,0,W,,,,0,WW,Wombats Willisau0401,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 312,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Offense,Throwaway,EL,Anonymous,,,AY,FS,MV,CS,SH,EL,GA,W,U,,0,1,1,,,,,1,W,,,,0,WU,Wombats Willisau0401,0,0,0,0,0,0,0,0,0,0,1,0,0,1
-313,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Defense,D,,,CS,,AY,FS,MV,CS,SH,EL,GA,,,M,0,1,1,,,,,1,,,,,0,,Wombats Willisau0401,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+313,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Defense,D,,,CS,,AY,FS,MV,CS,SH,EL,GA,,,M,0,1,1,,,,,1,M,,,,0,,Wombats Willisau0401,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 314,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Offense,Catch,Anonymous,AY,,,AY,FS,MV,CS,SH,EL,GA,U,W,,0,1,1,,,,AY,0,U,,,,0,UW,Wombats Willisau0401,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 315,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,143,O,4,1,Offense,Goal,AY,FS,,,AY,FS,MV,CS,SH,EL,GA,W,M,,0,1,1,0.5,,FS,,0,W,,,,0,WM,Wombats Willisau0401,0,0,0,0,0,0,1,0,0,0,0,0,0,1
 316,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,6,D,4,2,Defense,Pull,,,SB,6.853,SB,JL,MR,CC,EL,JV,SG,,,W,1,0,0,,,,,0,,,,,0,,Wombats Willisau0402,0,0,0,0,0,0,0,0,1,0,0,0,0,0
@@ -320,11 +320,11 @@
 318,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,135,O,5,2,Offense,Catch,SB,AY,,,AY,SB,MV,CS,SH,LB,GA,W,W,,1,0,1,,,,,0,W,,,,0,WW,Wombats Willisau0502,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 319,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,135,O,5,2,Offense,Catch,AY,CS,,,AY,SB,MV,CS,SH,LB,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wombats Willisau0502,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 320,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,135,O,5,2,Offense,Catch,CS,GA,,,AY,SB,MV,CS,SH,LB,GA,M,M,,1,0,1,,,,,0,M,,,,0,MM,Wombats Willisau0502,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-321,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,135,O,5,2,Offense,Catch,GA,LB,,,AY,SB,MV,CS,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('GA', 'LB')",0,MW,Wombats Willisau0502,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-322,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,135,O,5,2,Offense,Catch,LB,GA,,,AY,SB,MV,CS,SH,LB,GA,W,M,,1,0,1,,,,,0,W,1.0,WM,"('GA', 'LB')",0,WM,Wombats Willisau0502,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+321,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,135,O,5,2,Offense,Catch,GA,LB,,,AY,SB,MV,CS,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('Georg', 'Lynn')",0,MW,Wombats Willisau0502,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+322,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,135,O,5,2,Offense,Catch,LB,GA,,,AY,SB,MV,CS,SH,LB,GA,W,M,,1,0,1,,,,,0,W,1.0,WM,"('Georg', 'Lynn')",0,WM,Wombats Willisau0502,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 323,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,135,O,5,2,Offense,Catch,GA,LB,,,AY,SB,MV,CS,SH,LB,GA,M,W,,1,0,1,,,,,0,M,,,,0,MW,Wombats Willisau0502,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 324,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,135,O,5,2,Offense,Catch,LB,CS,,,AY,SB,MV,CS,SH,LB,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wombats Willisau0502,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-325,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,135,O,5,2,Offense,Catch,CS,AY,,,AY,SB,MV,CS,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('AY', 'CS')",0,MW,Wombats Willisau0502,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+325,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,135,O,5,2,Offense,Catch,CS,AY,,,AY,SB,MV,CS,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('Asli', 'Buddha')",0,MW,Wombats Willisau0502,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 326,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,135,O,5,2,Offense,Catch,AY,CS,,,AY,SB,MV,CS,SH,LB,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wombats Willisau0502,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 327,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,135,O,5,2,Offense,Catch,CS,LB,,,AY,SB,MV,CS,SH,LB,GA,M,W,,1,0,1,,LB,,,0,M,,,,0,MW,Wombats Willisau0502,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 328,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,135,O,5,2,Offense,Catch,LB,MV,,,AY,SB,MV,CS,SH,LB,GA,W,W,,1,0,1,,,,MV,0,W,,,,0,WW,Wombats Willisau0502,1,0,0,0,0,0,0,0,0,0,0,0,0,1
@@ -333,18 +333,18 @@
 331,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,126,D,5,3,Defense,Goal,,,Anonymous,,JL,MR,CC,EL,JV,JS,SG,,,U,0,1,0,-0.5,,,,0,,,,,0,,Wombats Willisau0503,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 332,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,139,O,6,3,Offense,Catch,SH,AY,,,AY,SB,FS,MV,CS,SH,GA,M,W,,0,1,1,,,,,0,M,,,,0,MW,Wombats Willisau0603,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 333,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,139,O,6,3,Offense,Catch,AY,GA,,,AY,SB,FS,MV,CS,SH,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Wombats Willisau0603,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-334,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,139,O,6,3,Offense,Catch,GA,FS,,,AY,SB,FS,MV,CS,SH,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('FS', 'GA')",0,MM,Wombats Willisau0603,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+334,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,139,O,6,3,Offense,Catch,GA,FS,,,AY,SB,FS,MV,CS,SH,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Francesc', 'Georg')",0,MM,Wombats Willisau0603,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 335,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,139,O,6,3,Offense,Catch,FS,GA,,,AY,SB,FS,MV,CS,SH,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wombats Willisau0603,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 336,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,139,O,6,3,Offense,Catch,GA,SH,,,AY,SB,FS,MV,CS,SH,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wombats Willisau0603,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 337,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,139,O,6,3,Offense,Catch,SH,AY,,,AY,SB,FS,MV,CS,SH,GA,M,W,,0,1,1,,,,,0,M,,,,0,MW,Wombats Willisau0603,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 338,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,139,O,6,3,Offense,Catch,AY,CS,,,AY,SB,FS,MV,CS,SH,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Wombats Willisau0603,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-339,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,139,O,6,3,Offense,Catch,CS,MV,,,AY,SB,FS,MV,CS,SH,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('CS', 'MV')",0,MW,Wombats Willisau0603,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+339,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,139,O,6,3,Offense,Catch,CS,MV,,,AY,SB,FS,MV,CS,SH,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('Buddha', 'Malvina')",0,MW,Wombats Willisau0603,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 340,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,139,O,6,3,Offense,Catch,MV,CS,,,AY,SB,FS,MV,CS,SH,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Wombats Willisau0603,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 341,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,139,O,6,3,Offense,Catch,CS,AY,,,AY,SB,FS,MV,CS,SH,GA,M,W,,0,1,1,,,,,0,M,,,,0,MW,Wombats Willisau0603,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 342,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,139,O,6,3,Offense,Catch,AY,SH,,,AY,SB,FS,MV,CS,SH,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Wombats Willisau0603,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-343,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,139,O,6,3,Offense,Catch,SH,FS,,,AY,SB,FS,MV,CS,SH,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('FS', 'SH')",0,MM,Wombats Willisau0603,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-344,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,139,O,6,3,Offense,Catch,FS,SH,,,AY,SB,FS,MV,CS,SH,GA,M,M,,0,1,1,,SH,,,0,M,1.0,MM,"('FS', 'SH')",0,MM,Wombats Willisau0603,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-345,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,139,O,6,3,Offense,Catch,SH,FS,,,AY,SB,FS,MV,CS,SH,GA,M,M,,0,1,1,,,,FS,0,M,1.0,MM,"('FS', 'SH')",0,MM,Wombats Willisau0603,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+343,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,139,O,6,3,Offense,Catch,SH,FS,,,AY,SB,FS,MV,CS,SH,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Francesc', 'Seba')",0,MM,Wombats Willisau0603,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+344,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,139,O,6,3,Offense,Catch,FS,SH,,,AY,SB,FS,MV,CS,SH,GA,M,M,,0,1,1,,SH,,,0,M,1.0,MM,"('Francesc', 'Seba')",0,MM,Wombats Willisau0603,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+345,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,139,O,6,3,Offense,Catch,SH,FS,,,AY,SB,FS,MV,CS,SH,GA,M,M,,0,1,1,,,,FS,0,M,1.0,MM,"('Francesc', 'Seba')",0,MM,Wombats Willisau0603,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 346,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,139,O,6,3,Offense,Goal,FS,SH,,,AY,SB,FS,MV,CS,SH,GA,M,M,,0,1,1,0.5,,SH,,0,M,,,,0,MM,Wombats Willisau0603,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 347,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,122,D,6,4,Defense,Pull,,,EL,5.259,JL,MR,CC,LB,EL,JV,SG,,,W,1,0,0,,,,,0,,,,,0,,Wombats Willisau0604,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 348,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,122,D,6,4,Defense,Goal,,,Anonymous,,JL,MR,CC,LB,EL,JV,SG,,,U,1,0,0,-0.5,,,,0,,,,,0,,Wombats Willisau0604,0,0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -358,21 +358,21 @@
 356,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,167,O,6,5,Offense,Catch,LB,MV,,,AY,SB,MV,CS,SH,LB,GA,W,W,,1,0,1,,,,,0,W,,,,0,WW,Wombats Willisau0605,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 357,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,167,O,6,5,Offense,Catch,MV,CS,,,AY,SB,MV,CS,SH,LB,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wombats Willisau0605,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 358,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,167,O,6,5,Offense,Catch,CS,AY,,,AY,SB,MV,CS,SH,LB,GA,M,W,,1,0,1,,,,,0,M,,,,0,MW,Wombats Willisau0605,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-359,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,167,O,6,5,Offense,Catch,AY,SH,,,AY,SB,MV,CS,SH,LB,GA,W,M,,1,0,1,,,,,0,W,1.0,WM,"('AY', 'SH')",0,WM,Wombats Willisau0605,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-360,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,167,O,6,5,Offense,Catch,SH,AY,,,AY,SB,MV,CS,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('AY', 'SH')",0,MW,Wombats Willisau0605,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+359,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,167,O,6,5,Offense,Catch,AY,SH,,,AY,SB,MV,CS,SH,LB,GA,W,M,,1,0,1,,,,,0,W,1.0,WM,"('Asli', 'Seba')",0,WM,Wombats Willisau0605,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+360,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,167,O,6,5,Offense,Catch,SH,AY,,,AY,SB,MV,CS,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('Asli', 'Seba')",0,MW,Wombats Willisau0605,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 361,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,167,O,6,5,Offense,Catch,AY,SH,,,AY,SB,MV,CS,SH,LB,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wombats Willisau0605,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 362,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,167,O,6,5,Offense,Catch,SH,CS,,,AY,SB,MV,CS,SH,LB,GA,M,M,,1,0,1,,,,,0,M,,,,0,MM,Wombats Willisau0605,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 363,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,167,O,6,5,Offense,Catch,CS,MV,,,AY,SB,MV,CS,SH,LB,GA,M,W,,1,0,1,,,,,0,M,,,,0,MW,Wombats Willisau0605,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 364,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,167,O,6,5,Offense,Throwaway,MV,Anonymous,,,AY,SB,MV,CS,SH,LB,GA,W,U,,1,0,1,,,,,1,W,,,,0,WU,Wombats Willisau0605,0,0,0,0,0,0,0,0,0,0,1,0,0,1
 365,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,167,O,6,5,Defense,Goal,,,Anonymous,,AY,SB,MV,CS,SH,LB,GA,,,U,1,0,1,-1.0,,,,0,,,,,0,,Wombats Willisau0605,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 366,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,267,O,6,6,Offense,Catch,AY,SH,,,AY,JL,CC,SH,JS,GA,SG,W,M,,0,1,1,,,,,0,W,,,,0,WM,Wombats Willisau0606,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-367,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,267,O,6,6,Offense,Catch,SH,JS,,,AY,JL,CC,SH,JS,GA,SG,M,M,,0,1,1,,,,,0,M,1.0,MM,"('JS', 'SH')",0,MM,Wombats Willisau0606,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+367,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,267,O,6,6,Offense,Catch,SH,JS,,,AY,JL,CC,SH,JS,GA,SG,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Jack', 'Seba')",0,MM,Wombats Willisau0606,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 368,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,267,O,6,6,Offense,Catch,JS,SH,,,AY,JL,CC,SH,JS,GA,SG,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wombats Willisau0606,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 369,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,267,O,6,6,Offense,Catch,SH,GA,,,AY,JL,CC,SH,JS,GA,SG,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wombats Willisau0606,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 370,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,267,O,6,6,Offense,Catch,GA,JL,,,AY,JL,CC,SH,JS,GA,SG,M,W,,0,1,1,,,,,0,M,,,,0,MW,Wombats Willisau0606,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 371,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,267,O,6,6,Offense,Catch,JL,SH,,,AY,JL,CC,SH,JS,GA,SG,W,M,,0,1,1,,,,,0,W,,,,0,WM,Wombats Willisau0606,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 372,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,267,O,6,6,Offense,Catch,SH,AY,,,AY,JL,CC,SH,JS,GA,SG,M,W,,0,1,1,,,,,0,M,,,,0,MW,Wombats Willisau0606,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-373,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,267,O,6,6,Offense,Catch,AY,JL,,,AY,JL,CC,SH,JS,GA,SG,W,W,,0,1,1,,,,,0,W,1.0,WW,"('AY', 'JL')",0,WW,Wombats Willisau0606,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+373,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,267,O,6,6,Offense,Catch,AY,JL,,,AY,JL,CC,SH,JS,GA,SG,W,W,,0,1,1,,,,,0,W,1.0,WW,"('Asli', 'Julia')",0,WW,Wombats Willisau0606,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 374,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,267,O,6,6,Offense,Catch,JL,AY,,,AY,JL,CC,SH,JS,GA,SG,W,W,,0,1,1,,,,,0,W,,,,0,WW,Wombats Willisau0606,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 375,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,267,O,6,6,Offense,Catch,AY,SH,,,AY,JL,CC,SH,JS,GA,SG,W,M,,0,1,1,,,,,0,W,,,,0,WM,Wombats Willisau0606,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 376,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,267,O,6,6,Offense,Catch,SH,GA,,,AY,JL,CC,SH,JS,GA,SG,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wombats Willisau0606,1,0,0,0,0,0,0,0,0,0,0,1,0,0
@@ -381,7 +381,7 @@
 379,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,267,O,6,6,Offense,Catch,AY,GA,,,AY,JL,CC,SH,JS,GA,SG,W,M,,0,1,1,,,,,0,W,,,,0,WM,Wombats Willisau0606,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 380,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,267,O,6,6,Offense,Catch,GA,SH,,,AY,JL,CC,SH,JS,GA,SG,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wombats Willisau0606,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 381,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,267,O,6,6,Offense,Catch,SH,JS,,,AY,JL,CC,SH,JS,GA,SG,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wombats Willisau0606,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-382,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,267,O,6,6,Offense,Catch,JS,AY,,,AY,JL,CC,SH,JS,GA,SG,M,W,,0,1,1,,AY,,,0,M,,,,0,MW,Wombats Willisau0606,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+382,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,267,O,6,6,Offense,Catch,JS,AY,,,AY,JL,CC,SH,JS,GA,SG,M,W,,0,1,1,,,,,0,M,,,,0,MW,Wombats Willisau0606,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 383,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,267,O,6,6,Offense,Drop,AY,Anonymous,,,AY,JL,CC,SH,JS,GA,SG,W,U,,0,1,1,,,,,1,U,,,,0,WU,Wombats Willisau0606,0,0,1,0,0,0,0,0,0,0,0,0,1,0
 384,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,267,O,6,6,Defense,Goal,,,Anonymous,,AY,JL,CC,SH,JS,GA,SG,,,U,0,1,1,-1.0,,,,0,,,,,0,,Wombats Willisau0606,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 385,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,31,O,7,6,Offense,Catch,MR,FS,,,SB,FS,MV,MR,CS,LB,EL,M,M,,1,0,1,,,,,0,M,,,,0,MM,Wombats Willisau0706,1,0,0,0,0,0,0,0,0,0,0,1,0,0
@@ -392,13 +392,13 @@
 390,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,31,O,7,6,Offense,Catch,MV,MR,,,SB,FS,MV,MR,CS,LB,EL,W,M,,1,0,1,,,,MR,0,W,,,,0,WM,Wombats Willisau0706,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 391,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,31,O,7,6,Offense,Goal,MR,Anonymous,,,SB,FS,MV,MR,CS,LB,EL,M,U,,1,0,1,0.5,,Anonymous,,0,M,,,,0,MU,Wombats Willisau0706,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 392,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,10,D,8,6,Defense,Pull,,,LB,2.688,JL,MV,MR,LB,EL,JV,SG,,,W,1,0,0,,,,,0,,,,,0,,Wombats Willisau0806,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-393,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,10,D,8,6,Defense,D,,,SG,,JL,MV,MR,LB,EL,JV,SG,,,M,1,0,0,,,,,1,,,,,0,,Wombats Willisau0806,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+393,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,10,D,8,6,Defense,D,,,SG,,JL,MV,MR,LB,EL,JV,SG,,,M,1,0,0,,,,,1,M,,,,0,,Wombats Willisau0806,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 394,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,10,D,8,6,Offense,Goal,SG,JV,,,JL,MV,MR,LB,EL,JV,SG,M,M,,1,0,0,1.0,,JV,,0,M,,,,0,MM,Wombats Willisau0806,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 395,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,7,D,8,6,Cessation,EndOfFirstQuarter,,,,,JL,MV,MR,LB,EL,JV,SG,,,,1,0,0,,,,,0,,,,,0,,Wombats Willisau0806,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 396,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,39,O,9,6,Offense,Catch,SH,SB,,,AY,SB,MV,CC,SH,SG,GA,M,W,,1,0,1,,,,,0,M,,,,0,MW,Wombats Willisau0906,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 397,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,39,O,9,6,Offense,Catch,SB,AY,,,AY,SB,MV,CC,SH,SG,GA,W,W,,1,0,1,,,,,0,W,,,,0,WW,Wombats Willisau0906,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 398,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,39,O,9,6,Offense,Catch,AY,SH,,,AY,SB,MV,CC,SH,SG,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wombats Willisau0906,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-399,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,39,O,9,6,Offense,Catch,SH,SB,,,AY,SB,MV,CC,SH,SG,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('SB', 'SH')",0,MW,Wombats Willisau0906,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+399,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,39,O,9,6,Offense,Catch,SH,SB,,,AY,SB,MV,CC,SH,SG,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('Seba', 'Zosh')",0,MW,Wombats Willisau0906,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 400,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,39,O,9,6,Offense,Catch,SB,SH,,,AY,SB,MV,CC,SH,SG,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wombats Willisau0906,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 401,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,39,O,9,6,Offense,Catch,SH,MV,,,AY,SB,MV,CC,SH,SG,GA,M,W,,1,0,1,,,,,0,M,,,,0,MW,Wombats Willisau0906,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 402,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,39,O,9,6,Offense,Catch,MV,AY,,,AY,SB,MV,CC,SH,SG,GA,W,W,,1,0,1,,AY,,,0,W,,,,0,WW,Wombats Willisau0906,1,0,0,0,0,0,0,0,0,0,0,0,0,1
@@ -406,46 +406,46 @@
 404,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,39,O,9,6,Offense,Goal,GA,SB,,,AY,SB,MV,CC,SH,SG,GA,M,W,,1,0,1,0.5,,SB,,0,M,,,,0,MW,Wombats Willisau0906,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 405,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,6,D,9,7,Defense,PullOb,,,SH,,JL,MR,SH,LB,EL,JS,JV,,,M,0,1,0,,,,,0,,,,,0,,Wombats Willisau0907,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 406,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,6,D,9,7,Defense,Goal,,,Anonymous,,JL,MR,SH,LB,EL,JS,JV,,,U,0,1,0,-0.5,,,,0,,,,,0,,Wombats Willisau0907,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-407,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,SH,AY,,,AY,SB,CS,CC,SH,SG,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('AY', 'SH')",0,MW,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+407,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,SH,AY,,,AY,SB,CS,CC,SH,SG,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('Asli', 'Seba')",0,MW,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 408,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,AY,SH,,,AY,SB,CS,CC,SH,SG,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 409,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,SH,SG,,,AY,SB,CS,CC,SH,SG,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 410,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,SG,CS,,,AY,SB,CS,CC,SH,SG,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 411,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,CS,SH,,,AY,SB,CS,CC,SH,SG,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 412,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,SH,CC,,,AY,SB,CS,CC,SH,SG,GA,M,W,,0,1,1,,,,,0,M,,,,0,MW,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 413,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,CC,CS,,,AY,SB,CS,CC,SH,SG,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-414,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,CS,AY,,,AY,SB,CS,CC,SH,SG,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('AY', 'CS')",0,MW,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+414,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,CS,AY,,,AY,SB,CS,CC,SH,SG,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('Asli', 'Buddha')",0,MW,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 415,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,AY,CS,,,AY,SB,CS,CC,SH,SG,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 416,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,CS,CC,,,AY,SB,CS,CC,SH,SG,GA,M,W,,0,1,1,,,,,0,M,,,,0,MW,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-417,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,CC,SG,,,AY,SB,CS,CC,SH,SG,GA,W,M,,0,1,1,,,,,0,W,1.0,WM,"('CC', 'SG')",0,WM,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+417,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,CC,SG,,,AY,SB,CS,CC,SH,SG,GA,W,M,,0,1,1,,,,,0,W,1.0,WM,"('Carlotta', 'Sebi')",0,WM,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 418,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,SG,CC,,,AY,SB,CS,CC,SH,SG,GA,M,W,,0,1,1,,,,,0,M,,,,0,MW,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 419,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,CC,AY,,,AY,SB,CS,CC,SH,SG,GA,W,W,,0,1,1,,,,,0,W,,,,0,WW,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-420,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,AY,SH,,,AY,SB,CS,CC,SH,SG,GA,W,M,,0,1,1,,,,,0,W,1.0,WM,"('AY', 'SH')",0,WM,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+420,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,AY,SH,,,AY,SB,CS,CC,SH,SG,GA,W,M,,0,1,1,,,,,0,W,1.0,WM,"('Asli', 'Seba')",0,WM,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 421,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,SH,AY,,,AY,SB,CS,CC,SH,SG,GA,M,W,,0,1,1,,,,,0,M,,,,0,MW,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 422,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,AY,CS,,,AY,SB,CS,CC,SH,SG,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-423,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,CS,CC,,,AY,SB,CS,CC,SH,SG,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('CC', 'CS')",0,MW,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+423,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,CS,CC,,,AY,SB,CS,CC,SH,SG,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('Buddha', 'Carlotta')",0,MW,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 424,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,CC,CS,,,AY,SB,CS,CC,SH,SG,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 425,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,CS,AY,,,AY,SB,CS,CC,SH,SG,GA,M,W,,0,1,1,,,,,0,M,,,,0,MW,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 426,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,AY,GA,,,AY,SB,CS,CC,SH,SG,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 427,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,GA,CS,,,AY,SB,CS,CC,SH,SG,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 428,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,CS,SH,,,AY,SB,CS,CC,SH,SG,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-429,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,SH,AY,,,AY,SB,CS,CC,SH,SG,GA,M,W,,0,1,1,,AY,,,0,M,1.0,MW,"('AY', 'SH')",0,MW,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+429,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,SH,AY,,,AY,SB,CS,CC,SH,SG,GA,M,W,,0,1,1,,AY,,,0,M,1.0,MW,"('Asli', 'Seba')",0,MW,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 430,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Catch,AY,SH,,,AY,SB,CS,CC,SH,SG,GA,W,M,,0,1,1,,,,SH,0,W,,,,0,WM,Wombats Willisau1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 431,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,223,O,10,7,Offense,Goal,SH,Anonymous,,,AY,SB,CS,CC,SH,SG,GA,M,U,,0,1,1,0.5,,Anonymous,,0,M,,,,0,MU,Wombats Willisau1007,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 432,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,7,D,10,7,Cessation,Halftime,,,,,AY,SB,CS,CC,SH,GA,SG,,,,0,1,0,,,,,0,,,,,0,,Wombats Willisau1007,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 433,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,7,D,10,7,Cessation,EndOfThirdQuarter,,,,,AY,SB,CS,CC,SH,GA,SG,,,,0,1,0,,,,,0,,,,,0,,Wombats Willisau1007,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 434,2021-09-06 13:34,Mixed SM 2021,Wombats Willisau,7,O,10,7,Cessation,GameOver,,,,,AY,SB,CS,CC,SH,GA,SG,,,,0,1,1,,,,,0,,,,,0,,Wombats Willisau1007,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 435,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,10,D,1,0,Defense,Pull,,,SG,8.984,JL,MV,CC,LB,JV,JS,SG,,,M,1,0,0,,,,,0,,,,,0,,Wizards Geneva0100,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-436,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,10,D,1,0,Defense,D,,,SG,,JL,MV,CC,LB,JV,JS,SG,,,M,1,0,0,,,,,1,,,,,0,,Wizards Geneva0100,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+436,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,10,D,1,0,Defense,D,,,SG,,JL,MV,CC,LB,JV,JS,SG,,,M,1,0,0,,,,,1,M,,,,0,,Wizards Geneva0100,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 437,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,10,D,1,0,Offense,Goal,SG,JV,,,JL,MV,CC,LB,JV,JS,SG,M,M,,1,0,0,1.0,,JV,,0,M,,,,0,MM,Wizards Geneva0100,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 438,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,130,D,1,1,Defense,Pull,,,Anonymous,2.831,SB,MV,CS,EL,JV,JS,SG,,,U,0,1,0,,,,,0,,,,,0,,Wizards Geneva0101,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 439,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,130,D,1,1,Defense,Goal,,,Anonymous,,SB,MV,CS,EL,JV,JS,SG,,,U,0,1,0,-0.5,,,,0,,,,,0,,Wizards Geneva0101,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-440,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,131,O,2,1,Offense,Catch,SH,GA,,,SB,AY,FS,AL,CS,SH,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('GA', 'SH')",0,MM,Wizards Geneva0201,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+440,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,131,O,2,1,Offense,Catch,SH,GA,,,SB,AY,FS,AL,CS,SH,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Georg', 'Seba')",0,MM,Wizards Geneva0201,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 441,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,131,O,2,1,Offense,Catch,GA,SH,,,SB,AY,FS,AL,CS,SH,GA,M,M,,0,1,1,,SH,,,0,M,,,,0,MM,Wizards Geneva0201,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 442,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,131,O,2,1,Offense,Catch,SH,FS,,,SB,AY,FS,AL,CS,SH,GA,M,M,,0,1,1,,,,FS,0,M,,,,0,MM,Wizards Geneva0201,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 443,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,131,O,2,1,Offense,Goal,FS,Anonymous,,,SB,AY,FS,AL,CS,SH,GA,M,U,,0,1,1,0.5,,Anonymous,,0,M,,,,0,MU,Wizards Geneva0201,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 444,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,162,D,2,2,Defense,Pull,,,Anonymous,3.845,JL,MV,CC,EL,JV,JS,SG,,,U,1,0,0,,,,,0,,,,,0,,Wizards Geneva0202,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 445,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,162,D,2,2,Defense,Throwaway,,,Anonymous,,JL,MV,CC,EL,JV,JS,SG,,,U,1,0,0,,,,,1,,,,,1,,Wizards Geneva0202,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-446,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,162,D,2,2,Offense,Catch,Anonymous,JS,,,JL,MV,CC,EL,JV,JS,SG,U,M,,1,0,0,,,,,0,U,1.0,UM,"('Anonymous', 'JS')",0,UM,Wizards Geneva0202,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+446,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,162,D,2,2,Offense,Catch,Anonymous,JS,,,JL,MV,CC,EL,JV,JS,SG,U,M,,1,0,0,,,,,0,U,1.0,UM,"('Anonymous', 'Jack')",0,UM,Wizards Geneva0202,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 447,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,162,D,2,2,Offense,Catch,JS,Anonymous,,,JL,MV,CC,EL,JV,JS,SG,M,U,,1,0,0,,,,,0,M,,,,0,MU,Wizards Geneva0202,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 448,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,162,D,2,2,Offense,Catch,Anonymous,JV,,,JL,MV,CC,EL,JV,JS,SG,U,M,,1,0,0,,,,,0,U,,,,0,UM,Wizards Geneva0202,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 449,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,162,D,2,2,Offense,Catch,JV,JL,,,JL,MV,CC,EL,JV,JS,SG,M,W,,1,0,0,,,,,0,M,,,,0,MW,Wizards Geneva0202,1,0,0,0,0,0,0,0,0,0,0,1,0,0
@@ -461,21 +461,21 @@
 459,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,131,O,4,3,Offense,Catch,FS,GA,,,AY,SB,FS,CS,SH,LB,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wizards Geneva0403,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 460,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,131,O,4,3,Offense,Catch,GA,AY,,,AY,SB,FS,CS,SH,LB,GA,M,W,,0,1,1,,,,,0,M,,,,0,MW,Wizards Geneva0403,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 461,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,131,O,4,3,Offense,Catch,AY,SH,,,AY,SB,FS,CS,SH,LB,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Wizards Geneva0403,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-462,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,131,O,4,3,Offense,Catch,SH,CS,,,AY,SB,FS,CS,SH,LB,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('CS', 'SH')",0,MM,Wizards Geneva0403,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-463,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,131,O,4,3,Offense,Catch,CS,SH,,,AY,SB,FS,CS,SH,LB,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('CS', 'SH')",0,MM,Wizards Geneva0403,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-464,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,131,O,4,3,Offense,Catch,SH,CS,,,AY,SB,FS,CS,SH,LB,GA,M,M,,0,1,1,,CS,,,0,M,1.0,MM,"('CS', 'SH')",0,MM,Wizards Geneva0403,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+462,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,131,O,4,3,Offense,Catch,SH,CS,,,AY,SB,FS,CS,SH,LB,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Buddha', 'Seba')",0,MM,Wizards Geneva0403,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+463,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,131,O,4,3,Offense,Catch,CS,SH,,,AY,SB,FS,CS,SH,LB,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Buddha', 'Seba')",0,MM,Wizards Geneva0403,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+464,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,131,O,4,3,Offense,Catch,SH,CS,,,AY,SB,FS,CS,SH,LB,GA,M,M,,0,1,1,,CS,,,0,M,1.0,MM,"('Buddha', 'Seba')",0,MM,Wizards Geneva0403,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 465,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,131,O,4,3,Offense,Catch,CS,SH,,,AY,SB,FS,CS,SH,LB,GA,M,M,,0,1,1,,,,SH,0,M,,,,0,MM,Wizards Geneva0403,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 466,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,131,O,4,3,Offense,Goal,SH,GA,,,AY,SB,FS,CS,SH,LB,GA,M,M,,0,1,1,0.5,,GA,,0,M,,,,0,MM,Wizards Geneva0403,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 467,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,150,D,4,4,Defense,Pull,,,Anonymous,5.464,JL,AL,CC,LB,JV,JS,SG,,,U,1,0,0,,,,,0,,,,,0,,Wizards Geneva0404,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 468,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,150,D,4,4,Defense,Throwaway,,,Anonymous,,JL,AL,CC,LB,JV,JS,SG,,,U,1,0,0,,,,,1,,,,,1,,Wizards Geneva0404,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-469,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,150,D,4,4,Offense,Catch,AL,SG,,,JL,AL,CC,LB,JV,JS,SG,W,M,,1,0,0,,,,,0,W,1.0,WM,"('AL', 'SG')",0,WM,Wizards Geneva0404,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+469,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,150,D,4,4,Offense,Catch,AL,SG,,,JL,AL,CC,LB,JV,JS,SG,W,M,,1,0,0,,,,,0,W,1.0,WM,"('Annika', 'Sebi')",0,WM,Wizards Geneva0404,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 470,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,150,D,4,4,Offense,Catch,SG,AL,,,JL,AL,CC,LB,JV,JS,SG,M,W,,1,0,0,,,,,0,M,,,,0,MW,Wizards Geneva0404,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 471,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,150,D,4,4,Offense,Catch,AL,JS,,,JL,AL,CC,LB,JV,JS,SG,W,M,,1,0,0,,,,,0,W,,,,0,WM,Wizards Geneva0404,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 472,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,150,D,4,4,Offense,Throwaway,JS,Anonymous,,,JL,AL,CC,LB,JV,JS,SG,M,U,,1,0,0,,,,,1,M,,,,0,MU,Wizards Geneva0404,0,0,0,0,0,0,0,0,0,0,1,1,0,0
 473,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,150,D,4,4,Defense,Goal,,,Anonymous,,JL,AL,CC,LB,JV,JS,SG,,,U,1,0,0,-0.5,,,,0,,,,,0,,Wizards Geneva0404,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 474,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,23,O,5,4,Offense,Catch,SH,FS,,,AY,SB,FS,JL,SH,EL,GA,M,M,,1,0,1,,,,,0,M,,,,0,MM,Wizards Geneva0504,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-475,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,23,O,5,4,Offense,Catch,FS,GA,,,AY,SB,FS,JL,SH,EL,GA,M,M,,1,0,1,,,,,0,M,1.0,MM,"('FS', 'GA')",0,MM,Wizards Geneva0504,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-476,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,23,O,5,4,Offense,Catch,GA,FS,,,AY,SB,FS,JL,SH,EL,GA,M,M,,1,0,1,,FS,,,0,M,1.0,MM,"('FS', 'GA')",0,MM,Wizards Geneva0504,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+475,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,23,O,5,4,Offense,Catch,FS,GA,,,AY,SB,FS,JL,SH,EL,GA,M,M,,1,0,1,,,,,0,M,1.0,MM,"('Francesc', 'Georg')",0,MM,Wizards Geneva0504,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+476,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,23,O,5,4,Offense,Catch,GA,FS,,,AY,SB,FS,JL,SH,EL,GA,M,M,,1,0,1,,FS,,,0,M,1.0,MM,"('Francesc', 'Georg')",0,MM,Wizards Geneva0504,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 477,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,23,O,5,4,Offense,Catch,FS,GA,,,AY,SB,FS,JL,SH,EL,GA,M,M,,1,0,1,,,,GA,0,M,,,,0,MM,Wizards Geneva0504,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 478,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,23,O,5,4,Offense,Goal,GA,Anonymous,,,AY,SB,FS,JL,SH,EL,GA,M,U,,1,0,1,0.5,,Anonymous,,0,M,,,,0,MU,Wizards Geneva0504,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 479,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,10,D,6,4,Defense,Pull,,,Anonymous,5.972,MV,AL,CC,LB,JV,JS,SG,,,U,1,0,0,,,,,0,,,,,0,,Wizards Geneva0604,0,0,0,0,0,0,0,0,1,0,0,0,0,0
@@ -490,25 +490,25 @@
 488,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,183,O,7,5,Offense,Catch,FS,GA,,,FS,SB,AY,MV,CC,SH,GA,M,M,,1,0,1,,,,,0,M,,,,0,MM,Wizards Geneva0705,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 489,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,183,O,7,5,Offense,Catch,GA,SH,,,FS,SB,AY,MV,CC,SH,GA,M,M,,1,0,1,,,,,0,M,,,,0,MM,Wizards Geneva0705,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 490,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,183,O,7,5,Offense,Catch,SH,FS,,,FS,SB,AY,MV,CC,SH,GA,M,M,,1,0,1,,,,,0,M,,,,0,MM,Wizards Geneva0705,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-491,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,183,O,7,5,Offense,Catch,FS,CC,,,FS,SB,AY,MV,CC,SH,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('CC', 'FS')",0,MW,Wizards Geneva0705,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+491,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,183,O,7,5,Offense,Catch,FS,CC,,,FS,SB,AY,MV,CC,SH,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('Carlotta', 'Francesc')",0,MW,Wizards Geneva0705,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 492,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,183,O,7,5,Offense,Catch,CC,FS,,,FS,SB,AY,MV,CC,SH,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wizards Geneva0705,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-493,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,183,O,7,5,Offense,Catch,FS,GA,,,FS,SB,AY,MV,CC,SH,GA,M,M,,1,0,1,,,,,0,M,1.0,MM,"('FS', 'GA')",0,MM,Wizards Geneva0705,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-494,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,183,O,7,5,Offense,Catch,GA,FS,,,FS,SB,AY,MV,CC,SH,GA,M,M,,1,0,1,,,,,0,M,1.0,MM,"('FS', 'GA')",0,MM,Wizards Geneva0705,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-495,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,183,O,7,5,Offense,Catch,FS,GA,,,FS,SB,AY,MV,CC,SH,GA,M,M,,1,0,1,,,,,0,M,1.0,MM,"('FS', 'GA')",0,MM,Wizards Geneva0705,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+493,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,183,O,7,5,Offense,Catch,FS,GA,,,FS,SB,AY,MV,CC,SH,GA,M,M,,1,0,1,,,,,0,M,1.0,MM,"('Francesc', 'Georg')",0,MM,Wizards Geneva0705,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+494,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,183,O,7,5,Offense,Catch,GA,FS,,,FS,SB,AY,MV,CC,SH,GA,M,M,,1,0,1,,,,,0,M,1.0,MM,"('Francesc', 'Georg')",0,MM,Wizards Geneva0705,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+495,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,183,O,7,5,Offense,Catch,FS,GA,,,FS,SB,AY,MV,CC,SH,GA,M,M,,1,0,1,,,,,0,M,1.0,MM,"('Francesc', 'Georg')",0,MM,Wizards Geneva0705,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 496,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,183,O,7,5,Offense,Catch,GA,FS,,,FS,SB,AY,MV,CC,SH,GA,M,M,,1,0,1,,FS,,,0,M,,,,0,MM,Wizards Geneva0705,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 497,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,183,O,7,5,Offense,Catch,FS,SH,,,FS,SB,AY,MV,CC,SH,GA,M,M,,1,0,1,,,,SH,0,M,,,,0,MM,Wizards Geneva0705,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 498,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,183,O,7,5,Offense,Goal,SH,GA,,,FS,SB,AY,MV,CC,SH,GA,M,M,,1,0,1,0.5,,GA,,0,M,,,,0,MM,Wizards Geneva0705,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 499,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,146,D,7,6,Defense,Pull,,,AL,4.68,JL,AL,LB,EL,JS,JV,SG,,,W,1,0,0,,,,,0,,,,,0,,Wizards Geneva0706,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-500,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,146,D,7,6,Defense,D,,,JV,,JL,AL,LB,EL,JS,JV,SG,,,M,1,0,0,,,,,1,,,,,0,,Wizards Geneva0706,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+500,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,146,D,7,6,Defense,D,,,JV,,JL,AL,LB,EL,JS,JV,SG,,,M,1,0,0,,,,,1,M,,,,0,,Wizards Geneva0706,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 501,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,146,D,7,6,Offense,Catch,LB,SG,,,JL,AL,LB,EL,JS,JV,SG,W,M,,1,0,0,,,,,0,W,,,,0,WM,Wizards Geneva0706,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-502,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,146,D,7,6,Offense,Catch,SG,JS,,,JL,AL,LB,EL,JS,JV,SG,M,M,,1,0,0,,,,,0,M,1.0,MM,"('JS', 'SG')",0,MM,Wizards Geneva0706,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+502,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,146,D,7,6,Offense,Catch,SG,JS,,,JL,AL,LB,EL,JS,JV,SG,M,M,,1,0,0,,,,,0,M,1.0,MM,"('Jack', 'Sebi')",0,MM,Wizards Geneva0706,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 503,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,146,D,7,6,Offense,Catch,JS,SG,,,JL,AL,LB,EL,JS,JV,SG,M,M,,1,0,0,,,,,0,M,,,,0,MM,Wizards Geneva0706,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 504,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,146,D,7,6,Offense,Throwaway,SG,Anonymous,,,JL,AL,LB,EL,JS,JV,SG,M,U,,1,0,0,,,,,1,M,,,,0,MU,Wizards Geneva0706,0,0,0,0,0,0,0,0,0,0,1,1,0,0
 505,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,146,D,7,6,Defense,Goal,,,Anonymous,,JL,AL,LB,EL,JS,JV,SG,,,U,1,0,0,-0.5,,,,0,,,,,0,,Wizards Geneva0706,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 506,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,Anonymous,SH,,,FS,SB,AY,MV,CS,SH,GA,U,M,,0,1,1,,,,,0,U,,,,0,UM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,0,1,0
-507,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,SH,CS,,,FS,SB,AY,MV,CS,SH,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('CS', 'SH')",0,MM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+507,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,SH,CS,,,FS,SB,AY,MV,CS,SH,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Buddha', 'Seba')",0,MM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 508,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,CS,SH,,,FS,SB,AY,MV,CS,SH,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-509,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,SH,AY,,,FS,SB,AY,MV,CS,SH,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('AY', 'SH')",0,MW,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+509,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,SH,AY,,,FS,SB,AY,MV,CS,SH,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('Asli', 'Seba')",0,MW,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 510,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,AY,SH,,,FS,SB,AY,MV,CS,SH,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 511,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,SH,FS,,,FS,SB,AY,MV,CS,SH,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 512,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,FS,GA,,,FS,SB,AY,MV,CS,SH,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
@@ -516,22 +516,22 @@
 514,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,SH,AY,,,FS,SB,AY,MV,CS,SH,GA,M,W,,0,1,1,,,,,0,M,,,,0,MW,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 515,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,AY,CS,,,FS,SB,AY,MV,CS,SH,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 516,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,CS,SH,,,FS,SB,AY,MV,CS,SH,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-517,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,SH,AY,,,FS,SB,AY,MV,CS,SH,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('AY', 'SH')",0,MW,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-518,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,AY,SH,,,FS,SB,AY,MV,CS,SH,GA,W,M,,0,1,1,,,,,0,W,1.0,WM,"('AY', 'SH')",0,WM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-519,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,SH,AY,,,FS,SB,AY,MV,CS,SH,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('AY', 'SH')",0,MW,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-520,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,AY,SH,,,FS,SB,AY,MV,CS,SH,GA,W,M,,0,1,1,,,,,0,W,1.0,WM,"('AY', 'SH')",0,WM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-521,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,SH,AY,,,FS,SB,AY,MV,CS,SH,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('AY', 'SH')",0,MW,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+517,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,SH,AY,,,FS,SB,AY,MV,CS,SH,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('Asli', 'Seba')",0,MW,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+518,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,AY,SH,,,FS,SB,AY,MV,CS,SH,GA,W,M,,0,1,1,,,,,0,W,1.0,WM,"('Asli', 'Seba')",0,WM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+519,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,SH,AY,,,FS,SB,AY,MV,CS,SH,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('Asli', 'Seba')",0,MW,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+520,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,AY,SH,,,FS,SB,AY,MV,CS,SH,GA,W,M,,0,1,1,,,,,0,W,1.0,WM,"('Asli', 'Seba')",0,WM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+521,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,SH,AY,,,FS,SB,AY,MV,CS,SH,GA,M,W,,0,1,1,,,,,0,M,1.0,MW,"('Asli', 'Seba')",0,MW,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 522,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,AY,SH,,,FS,SB,AY,MV,CS,SH,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 523,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,SH,FS,,,FS,SB,AY,MV,CS,SH,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-524,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,FS,CS,,,FS,SB,AY,MV,CS,SH,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('CS', 'FS')",0,MM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+524,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,FS,CS,,,FS,SB,AY,MV,CS,SH,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Buddha', 'Francesc')",0,MM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 525,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,CS,FS,,,FS,SB,AY,MV,CS,SH,GA,M,M,,0,1,1,,,,,0,M,,,,0,MM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-526,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,FS,SH,,,FS,SB,AY,MV,CS,SH,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('FS', 'SH')",0,MM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+526,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,FS,SH,,,FS,SB,AY,MV,CS,SH,GA,M,M,,0,1,1,,,,,0,M,1.0,MM,"('Francesc', 'Seba')",0,MM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 527,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,SH,FS,,,FS,SB,AY,MV,CS,SH,GA,M,M,,0,1,1,,FS,,,0,M,,,,0,MM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-528,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,FS,CS,,,FS,SB,AY,MV,CS,SH,GA,M,M,,0,1,1,,,,CS,0,M,1.0,MM,"('CS', 'FS')",0,MM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+528,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Catch,FS,CS,,,FS,SB,AY,MV,CS,SH,GA,M,M,,0,1,1,,,,CS,0,M,1.0,MM,"('Buddha', 'Francesc')",0,MM,Wizards Geneva0806,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 529,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,175,O,8,6,Offense,Goal,CS,FS,,,FS,SB,AY,MV,CS,SH,GA,M,M,,0,1,1,0.5,,FS,,0,M,,,,0,MM,Wizards Geneva0806,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 530,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,7,D,8,6,Cessation,EndOfFirstQuarter,,,,,AY,SB,FS,AL,SH,LB,GA,,,,1,0,0,,,,,0,,,,,0,,Wizards Geneva0806,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 531,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,9,6,Offense,Catch,AY,GA,,,AY,FS,SB,AL,SH,LB,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wizards Geneva0906,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-532,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,9,6,Offense,Catch,GA,FS,,,AY,FS,SB,AL,SH,LB,GA,M,M,,1,0,1,,,,,0,M,1.0,MM,"('FS', 'GA')",0,MM,Wizards Geneva0906,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+532,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,9,6,Offense,Catch,GA,FS,,,AY,FS,SB,AL,SH,LB,GA,M,M,,1,0,1,,,,,0,M,1.0,MM,"('Francesc', 'Georg')",0,MM,Wizards Geneva0906,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 533,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,9,6,Offense,Catch,FS,GA,,,AY,FS,SB,AL,SH,LB,GA,M,M,,1,0,1,,,,,0,M,,,,0,MM,Wizards Geneva0906,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 534,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,9,6,Offense,Catch,GA,AY,,,AY,FS,SB,AL,SH,LB,GA,M,W,,1,0,1,,,,,0,M,,,,0,MW,Wizards Geneva0906,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 535,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,9,6,Offense,Catch,AY,SH,,,AY,FS,SB,AL,SH,LB,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wizards Geneva0906,1,0,0,0,0,0,0,0,0,0,0,0,0,1
@@ -542,46 +542,46 @@
 540,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,6,D,9,7,Defense,Pull,,,Anonymous,3.808,JL,CS,CC,EL,JS,JV,SG,,,U,0,1,0,,,,,0,,,,,0,,Wizards Geneva0907,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 541,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,6,D,9,7,Defense,Goal,,,Anonymous,,JL,CS,CC,EL,JS,JV,SG,,,U,0,1,0,-0.5,,,,0,,,,,0,,Wizards Geneva0907,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 542,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,Anonymous,SB,,,AY,FS,SB,AL,SH,LB,GA,U,W,,1,0,1,,,,,0,U,,,,0,UW,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,0,1,0
-543,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,SB,AL,,,AY,FS,SB,AL,SH,LB,GA,W,W,,1,0,1,,,,,0,W,1.0,WW,"('AL', 'SB')",0,WW,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+543,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,SB,AL,,,AY,FS,SB,AL,SH,LB,GA,W,W,,1,0,1,,,,,0,W,1.0,WW,"('Annika', 'Zosh')",0,WW,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 544,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,AL,SB,,,AY,FS,SB,AL,SH,LB,GA,W,W,,1,0,1,,,,,0,W,,,,0,WW,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 545,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,SB,SH,,,AY,FS,SB,AL,SH,LB,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-546,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,SH,AY,,,AY,FS,SB,AL,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('AY', 'SH')",0,MW,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-547,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,AY,SH,,,AY,FS,SB,AL,SH,LB,GA,W,M,,1,0,1,,,,,0,W,1.0,WM,"('AY', 'SH')",0,WM,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+546,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,SH,AY,,,AY,FS,SB,AL,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('Asli', 'Seba')",0,MW,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+547,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,AY,SH,,,AY,FS,SB,AL,SH,LB,GA,W,M,,1,0,1,,,,,0,W,1.0,WM,"('Asli', 'Seba')",0,WM,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 548,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,SH,AY,,,AY,FS,SB,AL,SH,LB,GA,M,W,,1,0,1,,,,,0,M,,,,0,MW,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 549,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,AY,AL,,,AY,FS,SB,AL,SH,LB,GA,W,W,,1,0,1,,,,,0,W,,,,0,WW,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-550,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,AL,SB,,,AY,FS,SB,AL,SH,LB,GA,W,W,,1,0,1,,,,,0,W,1.0,WW,"('AL', 'SB')",0,WW,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-551,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,SB,AL,,,AY,FS,SB,AL,SH,LB,GA,W,W,,1,0,1,,,,,0,W,1.0,WW,"('AL', 'SB')",0,WW,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+550,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,AL,SB,,,AY,FS,SB,AL,SH,LB,GA,W,W,,1,0,1,,,,,0,W,1.0,WW,"('Annika', 'Zosh')",0,WW,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+551,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,SB,AL,,,AY,FS,SB,AL,SH,LB,GA,W,W,,1,0,1,,,,,0,W,1.0,WW,"('Annika', 'Zosh')",0,WW,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 552,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,AL,SB,,,AY,FS,SB,AL,SH,LB,GA,W,W,,1,0,1,,,,,0,W,,,,0,WW,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 553,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,SB,SH,,,AY,FS,SB,AL,SH,LB,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-554,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,SH,AY,,,AY,FS,SB,AL,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('AY', 'SH')",0,MW,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-555,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,AY,SH,,,AY,FS,SB,AL,SH,LB,GA,W,M,,1,0,1,,,,,0,W,1.0,WM,"('AY', 'SH')",0,WM,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-556,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,SH,AY,,,AY,FS,SB,AL,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('AY', 'SH')",0,MW,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+554,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,SH,AY,,,AY,FS,SB,AL,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('Asli', 'Seba')",0,MW,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+555,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,AY,SH,,,AY,FS,SB,AL,SH,LB,GA,W,M,,1,0,1,,,,,0,W,1.0,WM,"('Asli', 'Seba')",0,WM,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+556,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,SH,AY,,,AY,FS,SB,AL,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('Asli', 'Seba')",0,MW,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 557,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,AY,SH,,,AY,FS,SB,AL,SH,LB,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 558,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,SH,LB,,,AY,FS,SB,AL,SH,LB,GA,M,W,,1,0,1,,,,,0,M,,,,0,MW,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 559,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,LB,AY,,,AY,FS,SB,AL,SH,LB,GA,W,W,,1,0,1,,,,,0,W,,,,0,WW,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 560,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,AY,SH,,,AY,FS,SB,AL,SH,LB,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 561,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Drop,SH,GA,,,AY,FS,SB,AL,SH,LB,GA,M,M,,1,0,1,,,,,1,M,,,,0,MM,Wizards Geneva1007,0,0,1,0,0,0,0,0,0,0,0,1,0,0
-562,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Defense,D,,,LB,,AY,FS,SB,AL,SH,LB,GA,,,W,1,0,1,,,,,1,,,,,0,,Wizards Geneva1007,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+562,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Defense,D,,,LB,,AY,FS,SB,AL,SH,LB,GA,,,W,1,0,1,,,,,1,W,,,,0,,Wizards Geneva1007,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 563,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Catch,LB,SH,,,AY,FS,SB,AL,SH,LB,GA,W,M,,1,0,1,,,,SH,0,W,,,,0,WM,Wizards Geneva1007,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 564,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,279,O,10,7,Offense,Goal,SH,AY,,,AY,FS,SB,AL,SH,LB,GA,M,W,,1,0,1,0.5,,AY,,0,M,,,,0,MW,Wizards Geneva1007,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 565,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,258,D,11,7,Defense,Pull,,,SG,4.355,MV,CC,CS,EL,JS,JV,SG,,,M,0,1,0,,,,,0,,,,,0,,Wizards Geneva1107,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-566,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,258,D,11,7,Defense,D,,,EL,,MV,CC,CS,EL,JS,JV,SG,,,W,0,1,0,,,,,1,,,,,0,,Wizards Geneva1107,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+566,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,258,D,11,7,Defense,D,,,EL,,MV,CC,CS,EL,JS,JV,SG,,,W,0,1,0,,,,,1,W,,,,0,,Wizards Geneva1107,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 567,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,258,D,11,7,Offense,Throwaway,EL,Anonymous,,,MV,CC,CS,EL,JS,JV,SG,W,U,,0,1,0,,,,,1,W,,,,0,WU,Wizards Geneva1107,0,0,0,0,0,0,0,0,0,0,1,0,0,1
 568,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,258,D,11,7,Defense,Throwaway,,,Anonymous,,MV,CC,CS,EL,JS,JV,SG,,,U,0,1,0,,,,,1,,,,,1,,Wizards Geneva1107,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 569,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,258,D,11,7,Offense,Catch,SG,JS,,,MV,CC,CS,EL,JS,JV,SG,M,M,,0,1,0,,,,,0,M,,,,0,MM,Wizards Geneva1107,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 570,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,258,D,11,7,Offense,Catch,JS,MV,,,MV,CC,CS,EL,JS,JV,SG,M,W,,0,1,0,,,,,0,M,,,,0,MW,Wizards Geneva1107,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 571,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,258,D,11,7,Offense,Catch,MV,Anonymous,,,MV,CC,CS,EL,JS,JV,SG,W,U,,0,1,0,,Anonymous,,,0,W,,,,0,WU,Wizards Geneva1107,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-572,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,258,D,11,7,Offense,Catch,Anonymous,EL,,,MV,CC,CS,EL,JS,JV,SG,U,W,,0,1,0,,,,EL,0,U,1.0,UW,"('Anonymous', 'EL')",0,UW,Wizards Geneva1107,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+572,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,258,D,11,7,Offense,Catch,Anonymous,EL,,,MV,CC,CS,EL,JS,JV,SG,U,W,,0,1,0,,,,EL,0,U,1.0,UW,"('Anonymous', 'Erica')",0,UW,Wizards Geneva1107,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 573,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,258,D,11,7,Offense,Goal,EL,Anonymous,,,MV,CC,CS,EL,JS,JV,SG,W,U,,0,1,0,1.0,,Anonymous,,0,W,,,,0,WU,Wizards Geneva1107,0,0,0,0,0,0,1,0,0,0,0,0,0,1
 574,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,6,D,11,8,Defense,PullOb,,,Anonymous,,JL,MV,AL,JS,JV,GA,SG,,,U,0,1,0,,,,,0,,,,,0,,Wizards Geneva1108,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 575,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,6,D,11,8,Defense,Goal,,,Anonymous,,JL,MV,AL,JS,JV,GA,SG,,,U,0,1,0,-0.5,,,,0,,,,,0,,Wizards Geneva1108,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 576,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,SH,SB,,,AY,FS,SB,CC,SH,LB,GA,M,W,,1,0,1,,,,,0,M,,,,0,MW,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 577,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,SB,AY,,,AY,FS,SB,CC,SH,LB,GA,W,W,,1,0,1,,,,,0,W,,,,0,WW,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-578,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,AY,SH,,,AY,FS,SB,CC,SH,LB,GA,W,M,,1,0,1,,,,,0,W,1.0,WM,"('AY', 'SH')",0,WM,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-579,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,SH,AY,,,AY,FS,SB,CC,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('AY', 'SH')",0,MW,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-580,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,AY,SH,,,AY,FS,SB,CC,SH,LB,GA,W,M,,1,0,1,,,,,0,W,1.0,WM,"('AY', 'SH')",0,WM,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+578,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,AY,SH,,,AY,FS,SB,CC,SH,LB,GA,W,M,,1,0,1,,,,,0,W,1.0,WM,"('Asli', 'Seba')",0,WM,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+579,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,SH,AY,,,AY,FS,SB,CC,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('Asli', 'Seba')",0,MW,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+580,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,AY,SH,,,AY,FS,SB,CC,SH,LB,GA,W,M,,1,0,1,,,,,0,W,1.0,WM,"('Asli', 'Seba')",0,WM,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 581,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,SH,AY,,,AY,FS,SB,CC,SH,LB,GA,M,W,,1,0,1,,,,,0,M,,,,0,MW,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-582,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,AY,CC,,,AY,FS,SB,CC,SH,LB,GA,W,W,,1,0,1,,,,,0,W,1.0,WW,"('AY', 'CC')",0,WW,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+582,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,AY,CC,,,AY,FS,SB,CC,SH,LB,GA,W,W,,1,0,1,,,,,0,W,1.0,WW,"('Asli', 'Carlotta')",0,WW,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 583,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,CC,AY,,,AY,FS,SB,CC,SH,LB,GA,W,W,,1,0,1,,,,,0,W,,,,0,WW,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 584,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,AY,SH,,,AY,FS,SB,CC,SH,LB,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 585,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,SH,SB,,,AY,FS,SB,CC,SH,LB,GA,M,W,,1,0,1,,,,,0,M,,,,0,MW,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,1,0,0
@@ -589,48 +589,48 @@
 587,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,CC,AY,,,AY,FS,SB,CC,SH,LB,GA,W,W,,1,0,1,,,,,0,W,,,,0,WW,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 588,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,AY,SB,,,AY,FS,SB,CC,SH,LB,GA,W,W,,1,0,1,,,,,0,W,,,,0,WW,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 589,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,SB,SH,,,AY,FS,SB,CC,SH,LB,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-590,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,SH,AY,,,AY,FS,SB,CC,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('AY', 'SH')",0,MW,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+590,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,SH,AY,,,AY,FS,SB,CC,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('Asli', 'Seba')",0,MW,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 591,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,AY,SH,,,AY,FS,SB,CC,SH,LB,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 592,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,SH,FS,,,AY,FS,SB,CC,SH,LB,GA,M,M,,1,0,1,,,,,0,M,,,,0,MM,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-593,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,FS,CC,,,AY,FS,SB,CC,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('CC', 'FS')",0,MW,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+593,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,FS,CC,,,AY,FS,SB,CC,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('Carlotta', 'Francesc')",0,MW,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 594,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,CC,FS,,,AY,FS,SB,CC,SH,LB,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 595,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,FS,SH,,,AY,FS,SB,CC,SH,LB,GA,M,M,,1,0,1,,,,,0,M,,,,0,MM,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 596,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Throwaway,SH,Anonymous,,,AY,FS,SB,CC,SH,LB,GA,M,U,,1,0,1,,,,,1,M,,,,0,MU,Wizards Geneva1109,0,0,0,0,0,0,0,0,0,0,1,1,0,0
-597,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Defense,D,,,FS,,AY,FS,SB,CC,SH,LB,GA,,,M,1,0,1,,,,,1,,,,,0,,Wizards Geneva1109,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-598,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,GA,SB,,,AY,FS,SB,CC,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('GA', 'SB')",0,MW,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+597,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Defense,D,,,FS,,AY,FS,SB,CC,SH,LB,GA,,,M,1,0,1,,,,,1,M,,,,0,,Wizards Geneva1109,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+598,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,GA,SB,,,AY,FS,SB,CC,SH,LB,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('Georg', 'Zosh')",0,MW,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 599,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,SB,GA,,,AY,FS,SB,CC,SH,LB,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 600,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,GA,SH,,,AY,FS,SB,CC,SH,LB,GA,M,M,,1,0,1,,,,,0,M,,,,0,MM,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 601,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Catch,SH,Anonymous,,,AY,FS,SB,CC,SH,LB,GA,M,U,,1,0,1,,,,,0,M,,,,0,MU,Wizards Geneva1109,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 602,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Throwaway,Anonymous,Anonymous,,,AY,FS,SB,CC,SH,LB,GA,U,U,,1,0,1,,,,,1,U,,,,0,UU,Wizards Geneva1109,0,0,0,0,0,0,0,0,0,0,1,0,1,0
-603,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Defense,D,,,SH,,AY,FS,SB,CC,SH,LB,GA,,,M,1,0,1,,,,,1,,,,,0,,Wizards Geneva1109,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+603,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Defense,D,,,SH,,AY,FS,SB,CC,SH,LB,GA,,,M,1,0,1,,,,,1,M,,,,0,,Wizards Geneva1109,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 604,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Offense,Throwaway,SH,Anonymous,,,AY,FS,SB,CC,SH,LB,GA,M,U,,1,0,1,,,,,1,M,,,,0,MU,Wizards Geneva1109,0,0,0,0,0,0,0,0,0,0,1,1,0,0
 605,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,647,O,11,9,Defense,Goal,,,Anonymous,,AY,FS,SB,CC,SH,LB,GA,,,U,1,0,1,-1.0,,,,0,,,,,0,,Wizards Geneva1109,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-606,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,63,O,12,9,Offense,Catch,AY,Anonymous,,,AY,JL,AL,CS,SH,EL,GA,W,U,,1,0,1,,,,,0,W,1.0,WU,"('AY', 'Anonymous')",0,WU,Wizards Geneva1209,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-607,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,63,O,12,9,Offense,Catch,Anonymous,AY,,,AY,JL,AL,CS,SH,EL,GA,U,W,,1,0,1,,,,,0,U,1.0,UW,"('AY', 'Anonymous')",0,UW,Wizards Geneva1209,1,0,0,0,0,0,0,0,0,0,0,0,1,0
-608,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,63,O,12,9,Offense,Catch,AY,Anonymous,,,AY,JL,AL,CS,SH,EL,GA,W,U,,1,0,1,,,,,0,W,1.0,WU,"('AY', 'Anonymous')",0,WU,Wizards Geneva1209,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+606,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,63,O,12,9,Offense,Catch,AY,Anonymous,,,AY,JL,AL,CS,SH,EL,GA,W,U,,1,0,1,,,,,0,W,1.0,WU,"('Anonymous', 'Asli')",0,WU,Wizards Geneva1209,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+607,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,63,O,12,9,Offense,Catch,Anonymous,AY,,,AY,JL,AL,CS,SH,EL,GA,U,W,,1,0,1,,,,,0,U,1.0,UW,"('Anonymous', 'Asli')",0,UW,Wizards Geneva1209,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+608,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,63,O,12,9,Offense,Catch,AY,Anonymous,,,AY,JL,AL,CS,SH,EL,GA,W,U,,1,0,1,,,,,0,W,1.0,WU,"('Anonymous', 'Asli')",0,WU,Wizards Geneva1209,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 609,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,63,O,12,9,Offense,Catch,Anonymous,AY,,,AY,JL,AL,CS,SH,EL,GA,U,W,,1,0,1,,,,,0,U,,,,0,UW,Wizards Geneva1209,1,0,0,0,0,0,0,0,0,0,0,0,1,0
-610,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,63,O,12,9,Offense,Catch,AY,SH,,,AY,JL,AL,CS,SH,EL,GA,W,M,,1,0,1,,,,,0,W,1.0,WM,"('AY', 'SH')",0,WM,Wizards Geneva1209,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-611,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,63,O,12,9,Offense,Catch,SH,AY,,,AY,JL,AL,CS,SH,EL,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('AY', 'SH')",0,MW,Wizards Geneva1209,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-612,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,63,O,12,9,Offense,Catch,AY,SH,,,AY,JL,AL,CS,SH,EL,GA,W,M,,1,0,1,,,,,0,W,1.0,WM,"('AY', 'SH')",0,WM,Wizards Geneva1209,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-613,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,63,O,12,9,Offense,Catch,SH,AY,,,AY,JL,AL,CS,SH,EL,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('AY', 'SH')",0,MW,Wizards Geneva1209,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+610,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,63,O,12,9,Offense,Catch,AY,SH,,,AY,JL,AL,CS,SH,EL,GA,W,M,,1,0,1,,,,,0,W,1.0,WM,"('Asli', 'Seba')",0,WM,Wizards Geneva1209,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+611,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,63,O,12,9,Offense,Catch,SH,AY,,,AY,JL,AL,CS,SH,EL,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('Asli', 'Seba')",0,MW,Wizards Geneva1209,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+612,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,63,O,12,9,Offense,Catch,AY,SH,,,AY,JL,AL,CS,SH,EL,GA,W,M,,1,0,1,,,,,0,W,1.0,WM,"('Asli', 'Seba')",0,WM,Wizards Geneva1209,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+613,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,63,O,12,9,Offense,Catch,SH,AY,,,AY,JL,AL,CS,SH,EL,GA,M,W,,1,0,1,,,,,0,M,1.0,MW,"('Asli', 'Seba')",0,MW,Wizards Geneva1209,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 614,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,63,O,12,9,Offense,Catch,AY,SH,,,AY,JL,AL,CS,SH,EL,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wizards Geneva1209,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-615,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,63,O,12,9,Offense,Catch,SH,AL,,,AY,JL,AL,CS,SH,EL,GA,M,W,,1,0,1,,AL,,,0,M,1.0,MW,"('AL', 'SH')",0,MW,Wizards Geneva1209,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+615,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,63,O,12,9,Offense,Catch,SH,AL,,,AY,JL,AL,CS,SH,EL,GA,M,W,,1,0,1,,AL,,,0,M,1.0,MW,"('Annika', 'Seba')",0,MW,Wizards Geneva1209,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 616,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,63,O,12,9,Offense,Catch,AL,SH,,,AY,JL,AL,CS,SH,EL,GA,W,M,,1,0,1,,,,SH,0,W,,,,0,WM,Wizards Geneva1209,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 617,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,63,O,12,9,Offense,Goal,SH,EL,,,AY,JL,AL,CS,SH,EL,GA,M,W,,1,0,1,0.5,,EL,,0,M,,,,0,MW,Wizards Geneva1209,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 618,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,6,D,12,10,Defense,PullOb,,,SG,,SB,MV,CC,CS,JS,JV,SG,,,M,0,1,0,,,,,0,,,,,0,,Wizards Geneva1210,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 619,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,6,D,12,10,Defense,Goal,,,Anonymous,,SB,MV,CC,CS,JS,JV,SG,,,U,0,1,0,-0.5,,,,0,,,,,0,,Wizards Geneva1210,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-620,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,12,11,Offense,Catch,Anonymous,JL,,,FS,JL,AL,CS,SH,EL,GA,U,W,,0,1,1,,,,,0,U,1.0,UW,"('Anonymous', 'JL')",0,UW,Wizards Geneva1211,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+620,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,12,11,Offense,Catch,Anonymous,JL,,,FS,JL,AL,CS,SH,EL,GA,U,W,,0,1,1,,,,,0,U,1.0,UW,"('Anonymous', 'Julia')",0,UW,Wizards Geneva1211,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 621,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,12,11,Offense,Catch,JL,Anonymous,,,FS,JL,AL,CS,SH,EL,GA,W,U,,0,1,1,,,,,0,W,,,,0,WU,Wizards Geneva1211,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 622,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,12,11,Offense,Catch,Anonymous,GA,,,FS,JL,AL,CS,SH,EL,GA,U,M,,0,1,1,,,,,0,U,,,,0,UM,Wizards Geneva1211,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 623,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,12,11,Offense,Catch,GA,AL,,,FS,JL,AL,CS,SH,EL,GA,M,W,,0,1,1,,,,,0,M,,,,0,MW,Wizards Geneva1211,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-624,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,12,11,Offense,Catch,AL,FS,,,FS,JL,AL,CS,SH,EL,GA,W,M,,0,1,1,,FS,,,0,W,,,,0,WM,Wizards Geneva1211,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+624,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,12,11,Offense,Catch,AL,FS,,,FS,JL,AL,CS,SH,EL,GA,W,M,,0,1,1,,,,,0,W,,,,0,WM,Wizards Geneva1211,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 625,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,12,11,Offense,Drop,FS,GA,,,FS,JL,AL,CS,SH,EL,GA,M,M,,0,1,1,,,,,1,M,,,,0,MM,Wizards Geneva1211,0,0,1,0,0,0,0,0,0,0,0,1,0,0
 626,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,12,11,Defense,Goal,,,Anonymous,,FS,JL,AL,CS,SH,EL,GA,,,U,0,1,1,-1.0,,,,0,,,,,0,,Wizards Geneva1211,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 627,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,13,11,Offense,Catch,Anonymous,CC,,,AY,SB,FS,MV,CC,SH,GA,U,W,,1,0,1,,,,,0,U,,,,0,UW,Wizards Geneva1311,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 628,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,13,11,Offense,Catch,CC,FS,,,AY,SB,FS,MV,CC,SH,GA,W,M,,1,0,1,,,,,0,W,,,,0,WM,Wizards Geneva1311,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-629,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,13,11,Offense,Catch,FS,GA,,,AY,SB,FS,MV,CC,SH,GA,M,M,,1,0,1,,,,,0,M,1.0,MM,"('FS', 'GA')",0,MM,Wizards Geneva1311,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-630,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,13,11,Offense,Catch,GA,FS,,,AY,SB,FS,MV,CC,SH,GA,M,M,,1,0,1,,,,,0,M,1.0,MM,"('FS', 'GA')",0,MM,Wizards Geneva1311,1,0,0,0,0,0,0,0,0,0,0,1,0,0
-631,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,13,11,Offense,Catch,FS,GA,,,AY,SB,FS,MV,CC,SH,GA,M,M,,1,0,1,,,,,0,M,1.0,MM,"('FS', 'GA')",0,MM,Wizards Geneva1311,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+629,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,13,11,Offense,Catch,FS,GA,,,AY,SB,FS,MV,CC,SH,GA,M,M,,1,0,1,,,,,0,M,1.0,MM,"('Francesc', 'Georg')",0,MM,Wizards Geneva1311,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+630,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,13,11,Offense,Catch,GA,FS,,,AY,SB,FS,MV,CC,SH,GA,M,M,,1,0,1,,,,,0,M,1.0,MM,"('Francesc', 'Georg')",0,MM,Wizards Geneva1311,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+631,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,13,11,Offense,Catch,FS,GA,,,AY,SB,FS,MV,CC,SH,GA,M,M,,1,0,1,,,,,0,M,1.0,MM,"('Francesc', 'Georg')",0,MM,Wizards Geneva1311,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 632,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,13,11,Offense,Catch,GA,FS,,,AY,SB,FS,MV,CC,SH,GA,M,M,,1,0,1,,FS,,,0,M,,,,0,MM,Wizards Geneva1311,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 633,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,13,11,Offense,Catch,FS,SH,,,AY,SB,FS,MV,CC,SH,GA,M,M,,1,0,1,,,,SH,0,M,,,,0,MM,Wizards Geneva1311,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 634,2021-09-06 14:57,Mixed SM 2021,Wizards Geneva,135,O,13,11,Offense,Goal,SH,GA,,,AY,SB,FS,MV,CC,SH,GA,M,M,,1,0,1,0.5,,GA,,0,M,,,,0,MM,Wizards Geneva1311,0,0,0,0,0,0,1,0,0,0,0,1,0,0

@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+from plotly import graph_objects as go
 
 def global_layout():
     '''make stuff look cool '''
@@ -48,13 +49,13 @@ def give_and_go(df,idx,row):
         return None,None, None
 
 def is_hockey_assist(df,idx,row):
-    if row.Action=='Catch' and df.Action[idx+1]!='Throwaway' and df.Action[idx+2]=='Goal': #make sure it's our goal
+    if row.Action=='Catch' and df.Action[idx+1]!='Throwaway' and df.Action[idx+2]=='Goal' and type(df.Receiver[idx+2]) !=float: #make sure it's our goal
         return row.Receiver
     else:
         return None
     
 def is_assist(df,idx,row):
-    if row.Action=='Catch' and df.Action[idx+1]=='Goal': #make sure it's our goal
+    if row.Action=='Catch' and df.Action[idx+1]=='Goal' and type(df.Receiver[idx+1]) !=float: #make sure it's our goal
         return row.Receiver
     else:
         return None
@@ -75,7 +76,7 @@ def sort_touches(idx,row):
     ''' touch by M or W?'''
     if row.Action in ['Catch','Goal','Throwaway','Pull','PullOb']:
         return row.Passer_matchup
-    elif row.Action =='Defense':
+    elif row.Action =='D': #not Defense oops
         return row.Defender_matchup
     elif row.Action =='Drop':
         return row.Receiver_matchup
