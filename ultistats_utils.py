@@ -49,37 +49,37 @@ def give_and_go(df,idx,row):
         return None,None, None
 
 def is_hockey_assist(df,idx,row):
-    if row.Action=='Catch' and df.Action[idx+1]!='Throwaway' and df.Action[idx+2]=='Goal' and type(df.Receiver[idx+2]) !=float: #make sure it's our goal
-        return row.Receiver
+    if row.Action=='Catch' and df.Action[idx+1]=='Goal' and type(df.Receiver[idx+1]) !=float: #make sure it's our goal
+        return row.Passer
     else:
         return None
     
-def is_assist(df,idx,row):
-    if row.Action=='Catch' and df.Action[idx+1]=='Goal' and type(df.Receiver[idx+1]) !=float: #make sure it's our goal
-        return row.Receiver
+def is_assist(row):
+    if row.Action=='Goal' and type(row.Receiver) !=float: #make sure it's our goal
+        return row.Passer
     else:
         return None
         
-def is_turn(df,idx,row):
+def is_turn(row):
     if row.Action=='Throwaway' or row.Action == 'D' or row.Action == 'Drop':
         return 1
     else:
         return 0
         
-def goal_scorer(df,idx,row):
+def goal_scorer(row):
     if row.Action=='Goal' and type(row.Receiver) != float: #make sure it's our goal
         return row.Receiver
     else:
         return None
         
-def sort_touches(idx,row):
+def sort_touches(row):
     ''' touch by M or W?'''
-    if row.Action in ['Catch','Goal','Throwaway','Pull','PullOb']:
+    if row.Action in ['Catch','Throwaway','Pull','PullOb']: #this counts pick-ups as well
         return row.Passer_matchup
+    elif row.Action in ['Drop','Goal']:
+        return row.Receiver_matchup
     elif row.Action =='D': #not Defense oops
         return row.Defender_matchup
-    elif row.Action =='Drop':
-        return row.Receiver_matchup
     else:
         return None
         
