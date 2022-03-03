@@ -14,6 +14,12 @@ def global_layout():
       )])
     return layout
 
+def gender_matchups(df,wline,mline):
+    df['Passer_matchup']=['W' if p in wline else 'M' if p in mline else 'U' if p== 'Anonymous' else p for p in df.Passer]
+    df['Receiver_matchup']=['W' if p in wline else 'M' if p in mline else 'U' if p== 'Anonymous' else p for p in df.Receiver]
+    df['Defender_matchup']=['W' if p in wline else 'M' if p in mline else 'U' if p== 'Anonymous' else p for p in df.Defender]
+    return df
+
 def gender_ratio(seven_on,wline,mline):
     wcount,mcount=0,0
  
@@ -26,6 +32,12 @@ def gender_ratio(seven_on,wline,mline):
         return 1
     else:
         return 0
+        
+def pass_matchup(row):
+    if row.Action in ['Catch','Goal']:
+        return ''.join(sorted([row.Passer_matchup,row.Receiver_matchup]))
+    else:
+        return None
 
 def is_break(line, action, receiver):
     try:
